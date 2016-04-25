@@ -116,6 +116,11 @@ of those sections to manage the look and feel of the site. */
     background: #eee;
 }
 
+.seccion-contacto {
+    background: #fff;
+    padding-top: 80px;
+}
+
 /* Estructura */
 .navbar-default .navbar-brand img {
   width: 100px;
@@ -128,6 +133,10 @@ section h1 {
 
 .seccion-intro {
   padding-top: 180px;
+}
+
+.seccion-contacto .fa {
+  margin-bottom: 70px;
 }
 /* /Estructura */
 
@@ -172,6 +181,14 @@ section h1 {
 
 .seccion-intro {
   color: #0c2f81;
+}
+
+.seccion-contacto a {
+  color: #0c2f81;
+}
+
+.seccion-contacto a:hover {
+  color: blue;
 }
 /* /Títulos */
 /* /Colores */

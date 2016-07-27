@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: HorMinka
+email: info@horminka.org
+description: > # this means to ignore newlines until "baseurl:"
+  Organización multidisciplinaria que busca a través de la ciencia y la tecnología contribuir al desarrollo de la sociedad, partiendo de la realidad local, regional y nacional.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.horminka.org" # the base hostname & protocol for your site
+twitter_username: horminka
+github_username:  horminka
+
+# Build settings
+markdown: kramdown

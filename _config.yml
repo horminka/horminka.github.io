@@ -17,3 +17,37 @@ github_username:  horminka
 
 # Build settings
 markdown: kramdown
+
+t:
+  español:
+    inicio:
+      nombre: "Inicio"
+      url: "/"
+    nosotros:
+      nombre: "Nosotros"
+      url: "/nosotros/"
+    servicios:
+      nombre: "Servicios"
+      url: "/servicios/"
+    donaciones:
+      nombre: "Donaciones"
+      url: "/donaciones/"
+    contacto:
+      nombre: "Contacto"
+      url: "/contacto/"
+  english:
+    inicio:
+      nombre: "Home"
+      url: "/home.html"
+    nosotros:
+      nombre: "About Us"
+      url: "/about-us/"
+    servicios:
+      nombre: "Services"
+      url: "/services/"
+    donaciones:
+      nombre: "Donations"
+      url: "/donations/"
+    contacto:
+      nombre: "Contact"
+      url: "/contact/"

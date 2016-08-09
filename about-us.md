@@ -16,24 +16,24 @@ national context.
 
 # Our Team
 
-  * Juan Pablo Puentes, LLM
-  Chief Executive Officer
-  Lawyer, Universidad del Rosario (Bogotá)
-  Postgraduate Diploma in Computer Law and New Technologies, Universidad del Externado de Colombia (Bogotá)
-  Master in Laws and Technology, Tilburg University (Netherlands)
+  * ### Juan Pablo Puentes, LLM
+    *Chief Executive Officer*
+    <small>Lawyer, Universidad del Rosario (Bogotá)</small>
+    <small>Postgraduate Diploma in Computer Law and New Technologies, Universidad del Externado de Colombia (Bogotá)</small>
+    <small>Master in Laws and Technology, Tilburg University (Netherlands)</small>
  
 
-  * Leonardo Nieto Cortés
-  Chief Technology Officer
-  Electronics and Communications Engineer, Universidad del Cauca (Popayán)
-  Scrum Master
-  Experience in InfoSec and Software Development 
+  * ### Leonardo Nieto Cortés
+    *Chief Technology Officer*
+    <small>Electronics and Communications Engineer, Universidad del Cauca (Popayán)</small>
+    <small>Scrum Master</small>
+    <small>Experience in InfoSec and Software Development</small> 
  
 
-  * Daniel Felipe Trujillo, M.Sc.
-  Chief Science Officer
-  Mechanical Engineer, Universidad de América (Bogotá)
-  Master in Bioenergy Technology, Lappeenranta University of Tecnology (Finland)
+  * ### Daniel Felipe Trujillo, M.Sc.
+    *Chief Science Officer*
+    <small>Mechanical Engineer, Universidad de América (Bogotá)</small>
+    <small>Master in Bioenergy Technology, Lappeenranta University of Tecnology (Finland)</small>
 
 
 # What do we do?
@@ -114,18 +114,18 @@ to preserve the planet
 # Core Issues
 
   * **Environment, Sustainability and Climate Change**
-   * Appropriate Technology
-   * Renewable Energy
-   * Sustainability Ethics
-   * Food Security
+    * Appropriate Technology
+    * Renewable Energy
+    * Sustainability Ethics
+    * Food Security
   
   * **Technologic Sovereignity**
-   *Technological Literacy
-   *Free Software and Hardware
-   *Digital Security and Privacy
-   *Critical Analysis on Technology
+    *Technological Literacy
+    *Free Software and Hardware
+    *Digital Security and Privacy
+    *Critical Analysis on Technology
   
   * **Free Culture and Community**
-   *Collaborative Work
-   *Free Licenses
-   *Collaborative Economies
+    *Collaborative Work
+    *Free Licenses
+    *Collaborative Economies

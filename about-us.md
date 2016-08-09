@@ -8,9 +8,32 @@ lang: english
 
 # What is HorMinka?
 
-A multidisciplinary organization that using science and technology
-seeks to contribute to social development, considering the local,
-regional and national context.            
+We are a multidisciplinary, non-profit organization established in
+the city of Neiva. Using science and technology HorMinka seeks to 
+contribute to social development, by bringing together these two with 
+individuals and organizations, considering the local, regional and 
+national context.            
+
+# Our Team
+
+  * ### Juan Pablo Puentes, LLM
+    *Chief Executive Officer*
+    <small>Lawyer, Universidad del Rosario (Bogotá)</small>  
+    <small>Postgraduate Diploma in Computer Law and New Technologies, Universidad del Externado de Colombia (Bogotá)</small>  
+    <small>Master in Laws and Technology, Tilburg University (Netherlands)</small>  
+ 
+
+  * ### Leonardo Nieto Cortés
+    *Chief Technology Officer*
+    <small>Electronics and Communications Engineer, Universidad del Cauca (Popayán)</small>  
+    <small>Scrum Master</small>  
+    <small>Experience in InfoSec and Software Development</small>  
+ 
+
+  * ### Daniel Felipe Trujillo, M.Sc.
+    *Chief Science Officer*
+    <small>Mechanical Engineer, Universidad de América (Bogotá)</small>  
+    <small>Master in Bioenergy Technology, Lappeenranta University of Tecnology (Finland)</small>  
 
 
 # What do we do?
@@ -29,7 +52,7 @@ regional and national context.
 
 # Why do we do it?
 
-…Some figures can provide insight regarding the current state of science
+Some figures can provide insight regarding the current state of science
 and technology in Colombia. On the one hand, the latest PISA (Programme
 for International Student Assessment) study reveals that 70% of the
 Colombian students that took this test scored below acceptable levels in
@@ -41,7 +64,7 @@ the average for Latin America and the Caribbean with 0,82%, Brazil with
 1,15% and much lower than the average for OECD member countries with
 2,47%.
 
-… we decided to take the lead and to act as change agents. We strongly
+We decided to take the lead and to act as change agents. We strongly
 believe in people’s potential, we feel that is our responsibility to
 take action in order to use knowledge as a tool for helping to solve the
 country’s needs. We know for a certainty that only together is possible
@@ -88,3 +111,32 @@ to preserve the planet
   * **Collaborative work**: to obtain better results and to strengthen the
   bonds in within the community
 
+# Core Issues
+
+  * **Environment, Sustainability and Climate Change**
+
+    * Appropriate Technology
+
+    * Renewable Energy
+
+    * Sustainability Ethics
+
+    * Food Security
+
+  * **Technologic Sovereignity**
+
+    * Technological Literacy
+
+    * Free Software and Hardware
+
+    * Digital Security and Privacy
+
+    * Critical Analysis on Technology
+
+  * **Free Culture and Community**
+
+    * Collaborative Work
+ 
+    * Free Licenses
+
+    * Collaborative Economies

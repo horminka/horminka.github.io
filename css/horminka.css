@@ -218,3 +218,8 @@ section h1 {
   color: #0c2f81;
   font-weight: bold;
 }
+
+.lang a {
+  margin-left: 5px;
+  margin-right: 5px;
+}

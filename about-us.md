@@ -114,18 +114,29 @@ to preserve the planet
 # Core Issues
 
   * **Environment, Sustainability and Climate Change**
+
     * Appropriate Technology
+
     * Renewable Energy
+
     * Sustainability Ethics
+
     * Food Security
-  
+
   * **Technologic Sovereignity**
+
     *Technological Literacy
+
     *Free Software and Hardware
+
     *Digital Security and Privacy
+
     *Critical Analysis on Technology
-  
+
   * **Free Culture and Community**
+
     *Collaborative Work
+ 
     *Free Licenses
+
     *Collaborative Economies

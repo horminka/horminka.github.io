@@ -18,9 +18,9 @@ national context.
 
   * ### Juan Pablo Puentes, LLM
     *Chief Executive Officer*
-    <small>Lawyer, Universidad del Rosario (Bogotá)</small>
-    <small>Postgraduate Diploma in Computer Law and New Technologies, Universidad del Externado de Colombia (Bogotá)</small>
-    <small>Master in Laws and Technology, Tilburg University (Netherlands)</small>
+    <small>Lawyer, Universidad del Rosario (Bogotá)</small>  
+    <small>Postgraduate Diploma in Computer Law and New Technologies, Universidad del Externado de Colombia (Bogotá)</small>  
+    <small>Master in Laws and Technology, Tilburg University (Netherlands)</small>  
  
 
   * ### Leonardo Nieto Cortés

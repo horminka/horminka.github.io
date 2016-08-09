@@ -17,21 +17,21 @@ national context.
 # Our Team
 
   * ### Juan Pablo Puentes, LLM
-    *Chief Executive Officer*
+    *Chief Executive Officer*  
     <small>Lawyer, Universidad del Rosario (Bogotá)</small>  
     <small>Postgraduate Diploma in Computer Law and New Technologies, Universidad del Externado de Colombia (Bogotá)</small>  
     <small>Master in Laws and Technology, Tilburg University (Netherlands)</small>  
  
 
   * ### Leonardo Nieto Cortés
-    *Chief Technology Officer*
+    *Chief Technology Officer*  
     <small>Electronics and Communications Engineer, Universidad del Cauca (Popayán)</small>  
     <small>Scrum Master</small>  
     <small>Experience in InfoSec and Software Development</small>  
  
 
   * ### Daniel Felipe Trujillo, M.Sc.
-    *Chief Science Officer*
+    *Chief Science Officer*  
     <small>Mechanical Engineer, Universidad de América (Bogotá)</small>  
     <small>Master in Bioenergy Technology, Lappeenranta University of Tecnology (Finland)</small>  
 

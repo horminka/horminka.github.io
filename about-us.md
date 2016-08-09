@@ -25,15 +25,15 @@ national context.
 
   * ### Leonardo Nieto Cortés
     *Chief Technology Officer*
-    <small>Electronics and Communications Engineer, Universidad del Cauca (Popayán)</small>
-    <small>Scrum Master</small>
-    <small>Experience in InfoSec and Software Development</small> 
+    <small>Electronics and Communications Engineer, Universidad del Cauca (Popayán)</small>  
+    <small>Scrum Master</small>  
+    <small>Experience in InfoSec and Software Development</small>  
  
 
   * ### Daniel Felipe Trujillo, M.Sc.
     *Chief Science Officer*
-    <small>Mechanical Engineer, Universidad de América (Bogotá)</small>
-    <small>Master in Bioenergy Technology, Lappeenranta University of Tecnology (Finland)</small>
+    <small>Mechanical Engineer, Universidad de América (Bogotá)</small>  
+    <small>Master in Bioenergy Technology, Lappeenranta University of Tecnology (Finland)</small>  
 
 
 # What do we do?
@@ -125,18 +125,18 @@ to preserve the planet
 
   * **Technologic Sovereignity**
 
-    *Technological Literacy
+    * Technological Literacy
 
-    *Free Software and Hardware
+    * Free Software and Hardware
 
-    *Digital Security and Privacy
+    * Digital Security and Privacy
 
-    *Critical Analysis on Technology
+    * Critical Analysis on Technology
 
   * **Free Culture and Community**
 
-    *Collaborative Work
+    * Collaborative Work
  
-    *Free Licenses
+    * Free Licenses
 
-    *Collaborative Economies
+    * Collaborative Economies

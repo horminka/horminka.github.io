@@ -8,10 +8,14 @@ lang: english
 
 # Donations
 
-english text
+HorMinka is a non-profit organization founded in the city of Neiva (south of Colombia) by a group of young professionals who decided to bet on regional development and to use science and technology as a tool for social advancement. Naturally, several of the oragnization’s activities bring forth a deep social impact (digital literacy, community technology projetcs, construction of public politics concerning science and technology, etc.). To ensure the completion of these activities and the sustainability of HorMinka, we need resources. You can support the development of science and technology in this region by donating money or goods (computers, tools, furniture) to our organization.
 
-HorMinka es una entidad sin ánimo de lucro creada en la ciudad de Neiva (sur de Colombia) por jóvenes profesionales que decidieron apostarle al desarrollo regional y nacional y que buscan poner la ciencia y la tecnología al servicio de la sociedad. Para el desarrollo de nuestras actividades de impacto social (alfabetización digital, proyectos tecnológicos comunitarios, participación en la construcción de políticas públicas sobre ciencia y tecnología, entre otras) y su sostenimiento necesitamos recursos. Contribuya al avance de la ciencia y la tecnología en la sociedad y al desarrollo regional haciendo sus donaciones en dinero o en especie (computadores, herramientas, mobiliario, etc.) a nuestra organización.
-
-Como entidad legalmente constituida podemos emitir certificados de donación en caso de ser requeridos para efectuar deducciones de impuestos. Así mismo, se reconocerá públicamente su colaboración, si así se desea. Sus donaciones aseguran la continuidad y avance de nuestras actividades.
+As a legally constituted organization we can issue donation certificates valid for tax exemption. Additionally, every donation will be publicly credited, if that is your wish. Your donations guarantee  the continuity and progress of our work.
 
 **Thank you!**
+
+<div class="col-md-12 text-center" style="padding-top: 30px;">
+  <i class="fa fa-btc fa-3x" aria-hidden="true"></i>
+  <p>Donate using Bitcoin!</p>
+  <p>19FZwswVecKAfV5pJWkJRGTX1uEP8oWBi2</p>
+</div>

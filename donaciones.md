@@ -13,3 +13,9 @@ HorMinka es una entidad sin ánimo de lucro creada en la ciudad de Neiva (sur de
 Como entidad legalmente constituida podemos emitir certificados de donación en caso de ser requeridos para efectuar deducciones de impuestos. Así mismo, se reconocerá públicamente su colaboración, si así se desea. Sus donaciones aseguran la continuidad y avance de nuestras actividades.
 
 **¡Gracias!**
+
+<div class="col-md-12 text-center" style="padding-top: 30px;">
+  <i class="fa fa-btc fa-3x" aria-hidden="true"></i>
+  <p>¡Recibimos Bitcoins!</p>
+  <p>19FZwswVecKAfV5pJWkJRGTX1uEP8oWBi2</p>
+</div>

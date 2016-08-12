@@ -26,4 +26,4 @@ lang: español
 
   * Asesoría jurídica en licenciamiento de software y otras obras (canciones, fotos, videos, etc.) bajo licencias libres (GPL, Creative Commons, GFDL, entre otras)
 
-  * Consultoría en energías renovables, especialmente a partir de residuos orgánicos
+  * Consultoría en energías renovables

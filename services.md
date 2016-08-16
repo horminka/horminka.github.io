@@ -8,18 +8,24 @@ lang: english
 
 # Our Services
 
-  * Workshops, courses and training
+  * Science and technology-related courses, conferences and training ([more info]({{ "/docs/catalogo.pdf" | prepend: site.baseurl }}))
 
-  * Consultancy on information technologies. Comprehensive technology consulting
+  * School-oriented conferences and training ([more info]({{ "/docs/catalogo_colegios.pdf" | prepend: site.baseurl }}))
 
-  * Consultancy on matters related to Free software (licenses, technical aspects, etc).
+  * Science and technology-related comprehensive consulting
+
+  * Free software migration and free software solutions consulting. Save money, gain independence from software providers, extend the
+  life of your old hardware, among others.
 
   * Computer forensics services (digital evidence retrieval, data recovery, etc.)
 
-  * Consultancy and other services (creation of websites, social networks, etc) related to digital presence.
+  * Web presence and online identity services and consulting
 
-  * Web presence and online identity consulting
+    * Individuals and SMB Starter Pack ([more info]({{ "/docs/identidad_digital.pdf" | prepend: site.baseurl }}))
 
-  * Legal advice on matters related to science and new technologies in Colombia.
+    * Hotel Industry Pack ([more info]({{ "/docs/paquete_hoteles.pdf" | prepend: site.baseurl }}))
 
-  * Consultancy on renewable energy.
+  * Legal advice on matters related to software and other IPs licensing (music, photos, videos, etc.) under free licenses schemes
+  (GPL, Creative Commons, GFDL, among others)
+
+  * Consultancy on renewable energy

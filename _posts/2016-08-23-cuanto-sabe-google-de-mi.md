@@ -6,7 +6,7 @@ categories: privacidad
 ---
 
 #**¿Que tanto sabe Google de mí? - Todo!**  
-#**Por Daniel Trujillo**  
+##**Por Daniel Trujillo**  
   
 Lo más probable es que Google lo conozca mejor que sus amigos o familiares. Especialmente si usted  
 es un usuario frecuente de alguno de sus productos como Android, Gmail, Drive, Google Maps YouTube,  

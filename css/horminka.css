@@ -191,6 +191,9 @@ section h1 {
   color: #0c2f81;
 }
 
+section a {
+  color: #0c2f81;
+}
 .seccion-intro {
   color: #0c2f81;
 }
@@ -222,4 +225,27 @@ section h1 {
 .lang a {
   margin-left: 5px;
   margin-right: 5px;
+}
+
+h1.post-title {
+  padding: 0;
+}
+
+header.post-header {
+  margin-bottom: 60px;
+}
+
+.post-content img {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.comments {
+  margin-top: 60px;
 }

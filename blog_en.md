@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /blog-en/
 ref: blog
-lang: español
+lang: english
 ---
 
-# Publicaciones
+# Posts
 
 {% assign posts=site.posts | where:"lang", page.lang %}
 {% for post in posts %}

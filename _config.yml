@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.horminka.org" # the base hostname & protocol for your site
 twitter_username: horminka
 github_username:  horminka
+disqus: horminka
 
 # Build settings
 markdown: kramdown
@@ -35,6 +36,9 @@ t:
     contacto:
       nombre: "Contacto"
       url: "/contacto/"
+    blog:
+      nombre: "Blog"
+      url: "/blog/"
   english:
     inicio:
       nombre: "Home"
@@ -51,3 +55,6 @@ t:
     contacto:
       nombre: "Contact"
       url: "/contact/"
+    blog:
+      nombre: "Blog"
+      url: "/blog/"

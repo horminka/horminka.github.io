@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El cifrado funciona: ¿Cómo proteger tu privacidad en la era de
-vigilancia de la NSA"
+vigilancia de la NSA?"
 date: 2016-09-20 08:00:00 -0500
 ref: el-cifrado-funciona
 lang: español

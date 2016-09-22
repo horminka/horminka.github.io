@@ -7,6 +7,7 @@ ref: el-cifrado-funciona
 lang: español
 categories: privacidad
 author: Leonardo
+image: http://core0.staticworld.net/images/article/2015/09/nsa-spying-100614856-primary.idge.jpg
 excerpt: >
   Traducción al español del artículo [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance](https://freedom.press/encryption-works) publicado el 2 de julio de 2013 por la [Fundación para la libertad de prensa](https://freedom.press/).
 ---

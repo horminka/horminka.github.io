@@ -5,7 +5,8 @@ date: 2016-08-24 08:00:00 -0500
 ref: que-tanto-sabe-google-de-mi
 lang: español
 categories: privacidad
-author: Daniel Trujillo
+author: truxxu 
+image: http://i.imgur.com/FkarG88.png
 excerpt: >
   Lo más probable es que Google lo conozca mejor que sus amigos o familiares. Especialmente si usted
   es un usuario frecuente de alguno de sus productos como Android, Gmail, Drive, Google Maps, YouTube,

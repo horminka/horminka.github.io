@@ -5,7 +5,8 @@ date: 2016-09-19 08:00:00 -0500
 ref: nadie-regala-nada
 lang: español
 categories: privacidad
-author: Daniel Trujillo
+author: truxxu 
+image: http://blogs.ubc.ca/markgraham/files/2014/10/Google-Big-Brother.png
 excerpt: >
   Traducido y adaptado del artículo ["Free Isn't Freedom: How Silicon Valley Trick Us"](URL "http://motherboard.vice.com/read/free-isnt-freedom-epstein-essay") escrito por Robert Epstein
 ---

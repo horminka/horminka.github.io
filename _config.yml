@@ -5,6 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+# Gemas
+gems:
+  - jekyll-seo-tag
+
 # Site settings
 title: HorMinka
 email: info@horminka.org
@@ -12,8 +16,22 @@ description: > # this means to ignore newlines until "baseurl:"
   Organización multidisciplinaria que busca a través de la ciencia y la tecnología contribuir al desarrollo de la sociedad, partiendo de la realidad local, regional y nacional.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.horminka.org" # the base hostname & protocol for your site
-twitter_username: horminka
-github_username:  horminka
+author: HorMinka
+image: img/logo.jpg
+
+twitter:
+  username: horminka
+
+facebook:
+  publisher: https://www.facebook.com/horminka
+  app_id: 1588060028163333
+
+logo: img/logo.jpg
+
+social:
+  name: Corporación HorMinka
+  links: ["https://twitter.com/horminka", "https://www.facebook.com/horminka", "https://www.instagram.com/horminka/", "https://www.youtube.com/channel/UCOAlZBWlJajq7cs-89Ww3bA"]
+
 disqus: horminka
 
 # Build settings

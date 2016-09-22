@@ -12,6 +12,8 @@ excerpt: >
 
 Traducido y adaptado del artículo ["Free Isn't Freedom: How Silicon Valley Trick Us"](http://motherboard.vice.com/read/free-isnt-freedom-epstein-essay "Artículo Original") escrito por Robert Epstein
   
+![](http://blogs.ubc.ca/markgraham/files/2014/10/Google-Big-Brother.png)
+
 En lo que se refiere al mundo tecnológico hay muchos asuntos preocupantes, pero centrémonos en el tema de la privacidad. Sobre la   privacidad se habla mucho en la actualidad, pero pocos son los que realmente entienden lo que esta pasando. Es muy importante   informarse sobre esto, teniendo en cuenta lo que esta en juego.  
   
 Día tras día las personas entregan voluntariamente fragmentos de sus vidas privadas a grandes corporaciones y en consecuencia, pierden poco a poco el control sobre su intimidad. Así es como sucede: cuando usamos servicios "gratuitos" en internet como Facebook, Gmail, Youtube, Instagram o el motor de búsqueda Google, estamos aceptando un contrato.

@@ -13,6 +13,8 @@ excerpt: >
 
 Traducción al español del artículo [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance](https://freedom.press/encryption-works) publicado el 2 de julio de 2013 por la [Fundación para la libertad de prensa](https://freedom.press/).
 
+![](http://core0.staticworld.net/images/article/2015/09/nsa-spying-100614856-primary.idge.jpg)
+
 > *El cifrado funciona. Los sistemas de cifrado fuertes e implementados de forma apropiada son una de las pocas cosas en que te puedes confiar. Desafortunadamente, la seguridad de punto final es tan terriblemente débil que la NSA frecuentemente encuentra formas de evadirla.*
 > 
 > — Edward Snowden, respondiendo preguntas en vivo el [sitio web de The Guardian](http://www.guardian.co.uk/world/2013/jun/17/edward-snowden-nsa-files-whistleblower)
@@ -373,13 +375,21 @@ En lugar de utilizar la interfaz gráfica de administración de llaves PGP de En
 Para empezar a tener comunicaciones privadas con tus amigos y colegas con una seguridad de punto final alta, aquí están los pasos que necesitas seguir:
 
 * Reúnete con tus amigos cara a cara. Cada persona debería traer su propio computador y una memoria USB.
+
 * Descarga y quema un DVD Tails. Arranca Tails y crea memorias USB Tails para cada persona.
+
 * Cuando cada uno tenga una memoria USB Tails, cada persona debe arrancar Tails en su propio computador y configurar un volumen persistente en su USB. Como este volumen está cifrado, cada persona debe tener su propia frase de contraseña segura que necesitará para ingresar cada vez que arranque en Tails. Todos deberán reiniciar sus computadores de nuevo en Tails y esta vez montar el volumen persistente.
+
 * Cada persona debe crear una nueva cuenta de Jabber con un seudónimo. Una forma de hacerlo es ir a [https://register.jabber.org/](https://register.jabber.org/) en Iceweasel. Como Tails hace que todo el tráfico de Internet vaya a través de Tor, esta es una forma efectiva de crear una cuenta de Jabber anónima. 
+
 * Cada persona debe abrir Pidgin y configurarlo para usar su nueva cuenta de Jabber y crear una nueva llave OTR. Todos deben agregarse unos a otros a su lista de amigos y empezar sesiones OTR con los otros. Como todos están en el mismo lugar, es la oportunidad perfecta para comparar huellas digitales y verificar la identidad de todas las partes, para que puedan comunicarse de forma segura a través de Internet en el futuro.
+
 * Cada persona debe crear también una nueva dirección de correo con un seudónimo. Algunos proveedores de correo, como Gmail, hacen que sea muy difícil crear cuentas nuevas si se utiliza Tor y se permanece anónimo, así que encuentren otros proveedores de correo para usar en su lugar. Asegúrense de que su proveedor de correo soporte IMAP (para que puedan utilizar un cliente de correo de escritorio) sobre SSL (para que su cliente de correo use cifrado cuando se comunique con el servidor de correo). Si todos escogen el mismo proveedor de correo, los correos que se envíen entre las cuentas nunca saldrán del servidor de correo, lo cual reduce los metadatos acerca de su uso de correo disponibles para cualquiera que tenga redes de espionaje y vigilancia en Internet.
+
 * Cada persona debe generar una nueva llave PGP para sus direcciones de correo. Como con el cifrado de disco, es importante escoger una frase de contraseña fuerte cuando se genere la llave PGP.
+
 * El cliente de correo habilitado para PGP que viene con Tails es llamado Claws Mail. Cada persona debe configurar Claws Mail para usar su nueva dirección de correo, y luego enviar por correo una copia de su llave pública a todas las otras personas en el lugar.
+
 * Cada persona debe importar la llave pública de todos los demás en su llavero, y debe verificar manualmente la huella digital PGP. No salten este paso. Al final, cada persona debe tener un llavero que contiene las llaves firmadas de cada una de las otras personas.
 
 Si un atacante malicioso físicamente roba tu memoria USB Tails, la modifica, y te la regresa, él puede comprometer toda la seguridad de Tails. Por esta razón, es importante mantener tu memoria USB contigo todo el tiempo.

@@ -10,6 +10,17 @@ lang: español
 
 Somos una organización multidisciplinaria, constituida como una corporación sin ánimo de lucro en la ciudad de Neiva. Buscamos a través de la ciencia y la tecnología contribuir al desarrollo de la sociedad por medio de  proyectos e iniciativas que acercan las herramientas de la ciencia y la tecnología a las personas naturales y jurídicas a partir de nuestra realidad local, regional y nacional.
 
+## Nuestra Visión
+
+Una sociedad mejor basada en el conocimiento libre, la ciencia y la
+tecnología con un enfoque de beneficio colectivo.
+
+## Nuestra Misión
+
+Satisfacer necesidades de la sociedad usando la ciencia, la tecnología y
+el conocimiento como bienes públicos que permiten un desarrollo
+igualitario y sostenible.
+
 # Nuestro Equipo Directivo
 
   * ### Juan Pablo Puentes Vargas, LLM

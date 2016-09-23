@@ -14,6 +14,16 @@ contribute to social development, by bringing together these two with
 individuals and organizations, considering the local, regional and 
 national context.            
 
+## Our Vision
+
+A better society based on [libre knowledge](https://en.wikipedia.org/wiki/Libre_(word)#Libre_knowledge), science and technology focused
+on the colective benefit.
+
+## Our Mission
+
+To satisfy society's needs using science, technology and knowledge as
+public goods that allow an egalitarian and sustainable development.
+
 # Our Team
 
   * ### Juan Pablo Puentes, LLM

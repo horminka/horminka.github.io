@@ -38,7 +38,7 @@ national context.
 
 # What do we do?
 
-  * We aim to contribute to satisfy society’s needs using science and
+  * We satisfy society’s needs using science and
   technology
 
   * We promote the generation of ideas from individuals and the community,

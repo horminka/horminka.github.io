@@ -31,13 +31,13 @@ Somos una organización multidisciplinaria, constituida como una corporación si
 
 # ¿Qué hacemos?
 
-  * Buscamos satisfacer necesidades de la sociedad usando la ciencia y la tecnología.
+  * Satisfacemos necesidades de la sociedad usando la ciencia y la tecnología.
 
   * Promovemos la generación de ideas por parte de las personas y comunidades y contribuimos al desarrollo de sus potencialidades.
 
   * Creamos y difundimos conocimiento para el beneficio de la sociedad.
 
-  * Fomentamos la formación de una visión crítica de la ciencia y la tecnología y su impacto económico, social, cultural y ambiental.
+  * Fomentamos una visión crítica de la ciencia y la tecnología y su impacto económico, social, cultural y ambiental.
 
 # ¿Por qué lo hacemos?
 

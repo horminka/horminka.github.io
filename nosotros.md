@@ -12,14 +12,11 @@ Somos una organización multidisciplinaria, constituida como una corporación si
 
 ## Nuestra Visión
 
-Una sociedad mejor basada en el conocimiento libre, la ciencia y la
-tecnología con un enfoque de beneficio colectivo.
+Ser una organización referente a nivel nacional en temas de ciencia y tecnología con un enfoque de beneficio colectivo,   brindando además soluciones de calidad a nuestros clientes.  
 
 ## Nuestra Misión
 
-Satisfacer necesidades de la sociedad usando la ciencia, la tecnología y
-el conocimiento como bienes públicos que permiten un desarrollo
-igualitario y sostenible.
+Ofrecer soluciones de TIC basados en software libre que permita a las personas y organizaciones cubrir sus necesidades a   nivel tecnológico. Así mismo poner nuestro conocimiento en ciencia y tecnología al servicio del interés público.  
 
 # Nuestro Equipo Directivo
 

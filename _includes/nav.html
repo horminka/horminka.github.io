@@ -9,28 +9,14 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand logo page-scroll" href="{{ site.t[page.lang].inicio.url | prepend: site.baseurl }}">
-        <img class="img-responsive" src="{{ "/img/logo_texto.jpg" | prepend: site.baseurl }}" alt="logo" />
+        <img class="img-responsive" src="{{ "img/logo_texto.jpg" | prepend: site.baseurl }}" alt="{{ site.title }}" />
       </a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav navbar-right">
-        <li>
-          <a href="{{ site.t[page.lang].nosotros.url | prepend: site.baseurl }}">{{ site.t[page.lang].nosotros.nombre }}</a>
-        </li>
-        <li>
-          <a href="{{ site.t[page.lang].servicios.url | prepend: site.baseurl }}">{{ site.t[page.lang].servicios.nombre }}</a>
-        </li>
-        <li>
-          <a href="{{ site.t[page.lang].blog.url | prepend: site.baseurl }}">{{ site.t[page.lang].blog.nombre }}</a>
-        </li>
-        <li>
-          <a href="{{ site.t[page.lang].donaciones.url | prepend: site.baseurl }}">{{ site.t[page.lang].donaciones.nombre }}</a>
-        </li>
-        <li>
-          <a href="{{ site.t[page.lang].contacto.url | prepend: site.baseurl }}">{{ site.t[page.lang].contacto.nombre }}</a>
-        </li>
+        {% include secciones.html %}
       </ul>
     </div>
     <!-- /.navbar-collapse -->

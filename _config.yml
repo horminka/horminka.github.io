@@ -44,6 +44,7 @@ t:
     suscribete: "Suscríbete"
     textosuscribete: "Ingresa tus datos para suscribirte a nuestra lista de correo."
     enviar: "Enviar"
+    vermas: "Ver más"
     inicio:
       nombre: "Inicio"
       url: ""
@@ -69,6 +70,7 @@ t:
     suscribete: "Subscribe"
     textosuscribete: "Enter your data for adding you to our mail list."
     enviar: "Send"
+    vermas: "View more"
     inicio:
       nombre: "Home"
       url: "home.html"

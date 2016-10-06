@@ -1,0 +1,28 @@
+<!-- Swiper -->
+<div class="swiper-container">
+  <div class="swiper-wrapper">
+    {% for causa in site.data.causas %}
+    <div class="swiper-slide">
+      <div class="row">
+        <div class="col-sm-6">
+          <img src="{{ causa.imagen | prepend: site.baseurl }}" alt="{{ causa.nombre.[page.lang] }}" class="img-responsive center-block">
+        </div>
+        <div class="col-sm-6">
+          <h1>{{ causa.nombre.[page.lang] }}</h1>
+          <p>{{ causa.texto.[page.lang] }}</p>
+          <p><a class="boton" href="">{{ site.t[page.lang].vermas }}</a></p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Add Pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- Add Arrows -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
+
+

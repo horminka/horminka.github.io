@@ -1,0 +1,39 @@
+- nombre:
+    español: "NO DDR"
+    english: "english NO DDR"
+  texto:
+    español: "Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
+    english: "english Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
+  imagen: "img/ddr.jpg"
+
+- nombre:
+    español: "Unámonos para promover el acceso abierto en todo el mundo."
+    english: "english para promover el acceso abierto en todo el mundo."
+  texto:
+    español: "Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
+    english: "english Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
+  imagen: "img/acceso-abierto.jpg"
+
+- nombre:
+    español: "promover el acceso."
+    english: "promote access."
+  texto:
+    español: "Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
+    english: "english Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
+  imagen: "img/ddr.jpg"
+
+- nombre:
+    español: "en todo el mundo."
+    english: "english todo el mundo."
+  texto:
+    español: "Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
+    english: "english Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
+  imagen: "img/acceso-abierto.jpg"
+
+- nombre:
+    español: "sede"
+    english: "e - sede"
+  texto:
+    español: "Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
+    english: "english Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
+  imagen: "img/logo.jpg"

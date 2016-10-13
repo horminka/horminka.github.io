@@ -1,0 +1,203 @@
+/*-- services --*/
+.services {
+    padding: 4em 0 11em;
+    background: #f6f6f6;
+}
+.services-left-info {
+    margin: 4em 0 0 0;
+}
+.services-left-info h2,.wthree-about-info h3,.team-info h3{
+	color: $azul;
+    font-size: 2.5em;
+    margin: 0;
+    font-weight: 600;
+    position: relative;
+}
+//.services-left-info h2:after,.wthree-about-info h3:after{
+    //content: "";
+    //height: 2px;
+    //background: #333333;
+    //position: absolute;
+    //width: 15%;
+    //top: 55px;
+    //left: 0;
+//}
+.services-left-info p{
+    font-size: .9em;
+    color: #8c8c8c;
+    margin: 2em 0 0 0;
+    line-height: 1.8em;
+}	
+.agile-services-grid {
+    position: relative;
+}
+.w3l-services-grids {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+  left: 222px;
+}
+.w3l-services-grids1{
+    left: 318px !important;
+    top: 96px;
+}
+.service-grid-bg {
+    background: $blanco;
+    height: 130px;
+    width: 130px;
+    margin-bottom: .5em;
+    text-align: center;
+    position: relative;
+}
+.service-grid-text {
+    text-align: center;
+    -webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    -o-transform: rotate(315deg);
+    transform: rotate(315deg);
+    position: absolute;
+    top: 40px;
+    left: 37px;
+}
+.service-grid-text.long-text {
+    text-align: center;
+    -webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    -o-transform: rotate(315deg);
+    transform: rotate(315deg);
+    position: absolute;
+    top: 38px;
+    left: 26px;
+}
+.service-grid-text.conf-text {
+    text-align: center;
+    -webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    -o-transform: rotate(315deg);
+    transform: rotate(315deg);
+    position: absolute;
+    top: 39px;
+    left: 15px;
+}
+.service-grid-text i.fa.fa-ticket,.service-grid-text i.fa.fa-flask,.service-grid-text i.fa.fa-recycle,.service-grid-text i.fa.fa-magnet,.service-grid-text i.fa.fa-book,.service-grid-text i.fa.fa-compass,.service-grid-text i.fa.fa-object-ungroup,.service-grid-text i.fa.fa-life-ring{
+    color: $azul;
+    font-size: 1.5em;
+}
+.service-grid-text h5{
+	color: $azul;
+    font-size: 1em;
+    font-weight: 600;
+    margin: .5em 0 0 0;	
+}
+.service-grid-bg:hover{
+	background: $azul;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+  .service-grid-text i.fa.fa-ticket,.service-grid-text i.fa.fa-flask,.service-grid-text i.fa.fa-recycle,.service-grid-text i.fa.fa-magnet,.service-grid-text i.fa.fa-book,.service-grid-text i.fa.fa-compass,.service-grid-text i.fa.fa-object-ungroup,.service-grid-text i.fa.fa-life-ring{
+      color: $blanco;
+      font-size: 1.5em;
+  }
+}
+.service-grid-bg:hover div.service-grid-text h5{
+	color:#FFFFFF;
+}
+/*-- //services --*/
+@media(max-width:1080px){
+	.services-left {
+	    float: none;
+		width: 100%;
+	}
+	.services-right {
+		float: none;
+		width: 100%;
+		height: 275px;
+	}
+}
+@media(max-width:991px){
+	.services-left-info {
+		margin: 0 0 45px 0;
+	}
+}
+@media(max-width:667px){
+  .w3l-services-grids {
+    left: 200px;
+  }
+  .w3l-services-grids1 {
+    left: 296px !important;
+  }
+}
+@media(max-width:600px){
+  .w3l-services-grids {
+    left: 164px;
+  }
+  .w3l-services-grids1 {
+    left: 260px !important;
+  }
+}
+@media(max-width:568px){
+  .w3l-services-grids {
+    left: 145px;
+  }
+  .w3l-services-grids1 {
+    left: 241px !important;
+  }
+}
+@media(max-width:480px){
+  .w3l-services-grids {
+    left: 100px;
+  }
+  .w3l-services-grids1 {
+    left: 196px !important;
+  }
+}
+@media(max-width:414px){
+  .w3l-services-grids {
+    left: 60px;
+  }
+  .w3l-services-grids1 {
+    left: 156px !important;
+  }
+}
+@media(max-width:384px){
+  .w3l-services-grids {
+    left: 47px;
+  }
+  .w3l-services-grids1 {
+    left: 143px !important;
+  }
+}
+@media(max-width:320px){
+  .w3l-services-grids {
+    left: 31px;
+    top: -1px
+  }
+  .w3l-services-grids1 {
+    left: 113px !important;
+    top: 80px;
+  }
+  .service-grid-bg {
+    height: 108px;
+    width: 108px;
+    .service-grid-text {
+      top: 31px;
+      left: 30px;
+    }
+    .service-grid-text.long-text {
+      top: 24px;
+      left: 13px;
+    }
+    .service-grid-text.conf-text {
+      top: 24px;
+      left: 0px;
+    }
+  }
+}

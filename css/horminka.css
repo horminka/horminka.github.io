@@ -158,7 +158,7 @@ section p {
 /* Navegación */
 .navbar-default {
   background-color: #fff;
-  border: none;
+  border-bottom: 1px solid $azul-oscuro;
 }
 
 .navbar-default .navbar-nav > li > a {

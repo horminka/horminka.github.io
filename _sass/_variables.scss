@@ -2,7 +2,9 @@
 $blanco: #ffffff;
 $negro: #000000;
 $azul: #0c2f81;
-$azul-claro: #4523B4;
+//$azul-claro: #4523B4;
+$azul-claro: lighten($azul, 20);
+$azul-oscuro: darken($azul, 10);
 $cafe: #8E6931;
 $naranja: #B46623;
 $morado: #8D72E7;
@@ -17,8 +19,8 @@ $color-titulos: $azul;
 $color-titulos-alterno: $blanco;
 $color-texto: $gris;
 $color-texto-alterno: $blanco;
-$color-secundario: $morado;
-$color-llamativo: $naranja;
+$color-secundario: $azul;
+$color-llamativo: $azul-claro;
 
 // Fuentes
 $size-small: .9em;

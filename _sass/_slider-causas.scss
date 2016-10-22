@@ -30,12 +30,12 @@
   }
   .boton {
     outline: none;
-    color: $color-secundario;
+    color: $color-texto-alterno;
     padding: .5em 2em;
     font-size: $size-small;
     -webkit-appearance: none;
     background: none;
-    border: 2px solid $color-secundario;
+    border: 2px solid $color-texto-alterno;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
     -o-transition: 0.5s all;

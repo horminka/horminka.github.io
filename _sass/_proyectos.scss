@@ -1,19 +1,12 @@
 /*-- about --*/
 .about{
   padding: 4em 0;
-  background: $blanco;
 }
 .wthree-about-info{
 	text-align: center;
 }
 .wthree-about-info p{
-  font-size: 1em;
-  color: #8c8c8c;
   margin: 2em 0 0 0;
-}
-.wthree-about-info h3:after {
-    width: 5%;
-    left: 47%;
 }
 .agileits-about-grids{
 	margin:4em 0 0 0;
@@ -21,60 +14,59 @@
 .about-grid-info{
 	padding: 2em;
   text-align: center;
-  border: solid 2px $azul;
+  border: solid 2px $color-base;
   position: relative;
   overflow: hidden;
 }
 i.fa.fa-blind,i.fa.fa-blind,i.fa.fa-gears,i.fa.fa-creative-commons{
-    color: $azul;
-    font-size: 2em;
+  color: $color-base;
+  font-size: 2em;
 }
 .agileits-caption i.fa.fa-blind,.agileits-caption i.fa.fa-gears,.agileits-caption i.fa.fa-creative-commons{
-    color: #FFFFFF;
-    font-size: 3em;
+  color: $color-texto-alterno;
+  font-size: 3em;
 }
 .about-grid-info .agileits-caption h4{
-    color: $blanco;
-    font-size: 1.1em;
-    margin: 1em 0;
-    font-weight: 600;
+  color: $color-titulos-alterno;
+  font-size: $size-titulo-small;
+  margin: 1em 0;
+  font-weight: 600;
 }
 .about-grid-info h4{
-    color: $azul;
-    font-size: 1.1em;
-    margin: 1em 0;
-    font-weight: 600;
+  color: $color-titulos;
+  font-size: $size-titulo-small;
+  margin: 1em 0;
+  font-weight: 600;
 }
 .about-grid-info p,.agileits-caption p{
-    color: #8c8c8c;
-    font-size: .9em;
-    margin: 0;
-    line-height: 1.8em;
+  font-size: $size-small;
+  margin: 0;
+  line-height: 1.8em;
 }
 .agileits-caption p{
-    color: $blanco;
+  color: $color-texto-alterno;
 }
 .agileits-caption {
-    background: $azul;
-    padding: 4em 1em 1em 1em;
-    position: absolute;
-    left: 0;
-    bottom: -108%;
-    text-align: center;
-    width: 100%;
-    height: 100% !important;
-    -webkit-transition: .5s all;
-    transition: .5s all;
-    -moz-transition: .5s all;
+  background: $color-fondo-alterno;
+  padding: 4em 1em 1em 1em;
+  position: absolute;
+  left: 0;
+  bottom: -108%;
+  text-align: center;
+  width: 100%;
+  height: 100% !important;
+  -webkit-transition: .5s all;
+  transition: .5s all;
+  -moz-transition: .5s all;
 }
 .about-grid-info:hover .agileits-caption {
-    bottom: 0%;
+  bottom: 0%;
 }
 .about-grid-info:hover .agileits-caption {
-    bottom: 0%;
+  bottom: 0%;
 }
 .agileits-about-top-grids:nth-child(2) {
-    margin: 2em 0 0 0;
+  margin: 2em 0 0 0;
 }
 /*-- //about --*/
 

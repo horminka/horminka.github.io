@@ -8,7 +8,7 @@
           <img src="{{ causa.imagen | prepend: site.baseurl }}" alt="{{ causa.nombre.[page.lang] }}" class="img-responsive center-block">
         </div>
         <div class="col-sm-6">
-          <h1>{{ causa.nombre.[page.lang] }}</h1>
+          <h2>{{ causa.nombre.[page.lang] }}</h2>
           <p>{{ causa.texto.[page.lang] }}</p>
           <p><a class="boton" href="">{{ site.t[page.lang].vermas }}</a></p>
         </div>
@@ -21,8 +21,8 @@
   <div class="swiper-pagination"></div>
 
   <!-- Add Arrows -->
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
+  {% comment %}<div class="swiper-button-next"></div>{% endcomment %}
+  {% comment %}<div class="swiper-button-prev"></div>{% endcomment %}
 </div>
 
 

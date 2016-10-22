@@ -146,11 +146,10 @@ section h1 {
 
 /* Fuentes */
 body {
-  font-family: 'Electrolize', sans-serif;
 }
 
 section p {
-  font-size: 1.4em;
+  /*font-size: 1.4em;*/
 }
 /* /Fuentes */
 

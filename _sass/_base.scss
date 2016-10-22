@@ -1,7 +1,47 @@
+body {
+  font-size: $size-normal;
+  color: $color-texto;
+  font-family: 'Electrolize', sans-serif;
+  background-color: $color-fondo;
+  h1, h2, h3, h4, h5 {
+    color: $color-titulos;
+    font-weight: 600;
+  }
+}
 a {
-  color: $morado;
+  color: $color-secundario;
   &:hover {
-    color: $naranja;
+    color: $color-llamativo;
     text-decoration: none;
+  }
+}
+.btn {
+  border-radius: 0;
+  outline: none;
+  color: $color-secundario;
+  padding: .5em 2em;
+  font-size: $size-small;
+  -webkit-appearance: none;
+  background: none;
+  border: 2px solid $color-secundario;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+  -ms-transition: 0.5s all;
+  transition: 0.5s all;
+  &:hover {
+    color: $color-llamativo;
+    border: 2px solid $color-llamativo;
+    background: none;
+  }
+  &:active {
+    color: $color-llamativo;
+    border: 2px solid $color-llamativo;
+    background: none;
+  }
+  &:focus {
+    color: $color-llamativo;
+    border: 2px solid $color-llamativo;
+    background: none;
   }
 }

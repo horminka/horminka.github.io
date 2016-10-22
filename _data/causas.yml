@@ -1,39 +1,35 @@
 - nombre:
-    español: "NO DDR"
-    english: "english NO DDR"
+    español: "Software Libre"
+    english: "Libre Software"
   texto:
-    español: "Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
-    english: "english Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
-  imagen: "img/ddr.jpg"
+    español: "Apoyamos el uso y la creación de software libre, el software que garantiza la libertad de los usuarios y la comunidad."
+    english: "We support the use and creation of libre software, the software that respects users' freedom and community."
+  imagen: "img/software-libre.jpg"
+  enlace: "http://www.gnu.org/philosophy/free-sw.html"
 
 - nombre:
-    español: "Unámonos para promover el acceso abierto en todo el mundo."
-    english: "english para promover el acceso abierto en todo el mundo."
+    español: "¡No al DRM!"
+    english: "No DRM!"
   texto:
-    español: "Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
-    english: "english Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
-  imagen: "img/acceso-abierto.jpg"
+    español: 'Nos oponemos a las restricciones a través de "medidas de protección técnológica" impuestas a las personas en los productos que usan. Son ineficaces y restringen derechos de los usuarios.'
+    english: 'We oppose restrictions through "technological protection measures" imposed on people on the products they use. They are ineffective and restrict user rights.'
+  imagen: "img/no-drm.jpg"
+  enlace: "http://defectivebydesign.org/"
 
 - nombre:
-    español: "promover el acceso."
-    english: "promote access."
+    español: "Usa Estándares Abiertos"
+    english: "Use Open Standards"
   texto:
-    español: "Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
-    english: "english Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
-  imagen: "img/ddr.jpg"
+    español: "Apoyamos el uso de estándares abiertos, los cuales dan libertad a los usuarios y permiten software y productos tecnológicos más competitivos."
+    english: "We support the use of open standards, which give freedom to users and allow more competitive software and technology products."
+  imagen: "img/estandares-abiertos.jpg"
+  enlace: "https://documentfreedom.org/openstandards.es.html"
 
 - nombre:
-    español: "en todo el mundo."
-    english: "english todo el mundo."
+    español: "Referendo por el Agro"
+    english: "Referendum for the Colombian Agriculture"
   texto:
-    español: "Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
-    english: "english Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
-  imagen: "img/acceso-abierto.jpg"
-
-- nombre:
-    español: "sede"
-    english: "e - sede"
-  texto:
-    español: "Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
-    english: "english Et quo nemo eos eveniet temporibus aut nihil. Consectetur expedita deserunt odit at omnis mollitia voluptas temporibus."
-  imagen: "img/logo.jpg"
+    español: "Apoyamos esta iniciativa para defender y garantizar la soberanía y seguridad alimentaria del país."
+    english: "We support this initiative to defend and guarantee the food sovereignty and food security of Colombia."
+  imagen: "img/referendo-agro.jpg"
+  enlace: "http://referendoporelagro.com/"

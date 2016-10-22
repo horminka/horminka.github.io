@@ -3,7 +3,7 @@ layout: page
 title: About Us
 permalink: /about-us/
 ref: nosotros
-lang: english
+lang: English
 ---
 
 # What is HorMinka?

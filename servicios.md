@@ -3,7 +3,7 @@ layout: page
 title: Servicios
 ref: servicios
 permalink: /servicios/
-lang: español
+lang: Español
 ---
 
 # Nuestros Servicios

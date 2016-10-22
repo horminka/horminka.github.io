@@ -1,35 +1,35 @@
 - nombre:
-    español: "Software Libre"
-    english: "Libre Software"
+    Español: "Software Libre"
+    English: "Libre Software"
   texto:
-    español: "Apoyamos el uso y la creación de software libre, el software que garantiza la libertad de los usuarios y la comunidad."
-    english: "We support the use and creation of libre software, the software that respects users' freedom and community."
+    Español: "Apoyamos el uso y la creación de software libre, el software que garantiza la libertad de los usuarios y la comunidad."
+    English: "We support the use and creation of libre software, the software that respects users' freedom and community."
   imagen: "img/software-libre.jpg"
   enlace: "http://www.gnu.org/philosophy/free-sw.html"
 
 - nombre:
-    español: "¡No al DRM!"
-    english: "No DRM!"
+    Español: "¡No al DRM!"
+    English: "No DRM!"
   texto:
-    español: 'Nos oponemos a las restricciones a través de "medidas de protección técnológica" impuestas a las personas en los productos que usan. Son ineficaces y restringen derechos de los usuarios.'
-    english: 'We oppose restrictions through "technological protection measures" imposed on people on the products they use. They are ineffective and restrict user rights.'
+    Español: 'Nos oponemos a las restricciones a través de "medidas de protección técnológica" impuestas a las personas en los productos que usan. Son ineficaces y restringen derechos de los usuarios.'
+    English: 'We oppose restrictions through "technological protection measures" imposed on people on the products they use. They are ineffective and restrict user rights.'
   imagen: "img/no-drm.jpg"
   enlace: "http://defectivebydesign.org/"
 
 - nombre:
-    español: "Usa Estándares Abiertos"
-    english: "Use Open Standards"
+    Español: "Usa Estándares Abiertos"
+    English: "Use Open Standards"
   texto:
-    español: "Apoyamos el uso de estándares abiertos, los cuales dan libertad a los usuarios y permiten software y productos tecnológicos más competitivos."
-    english: "We support the use of open standards, which give freedom to users and allow more competitive software and technology products."
+    Español: "Apoyamos el uso de estándares abiertos, los cuales dan libertad a los usuarios y permiten software y productos tecnológicos más competitivos."
+    English: "We support the use of open standards, which give freedom to users and allow more competitive software and technology products."
   imagen: "img/estandares-abiertos.jpg"
   enlace: "https://documentfreedom.org/openstandards.es.html"
 
 - nombre:
-    español: "Referendo por el Agro"
-    english: "Referendum for the Colombian Agriculture"
+    Español: "Referendo por el Agro"
+    English: "Referendum for the Colombian Agriculture"
   texto:
-    español: "Apoyamos esta iniciativa para defender y garantizar la soberanía y seguridad alimentaria del país."
-    english: "We support this initiative to defend and guarantee the food sovereignty and food security of Colombia."
+    Español: "Apoyamos esta iniciativa para defender y garantizar la soberanía y seguridad alimentaria del país."
+    English: "We support this initiative to defend and guarantee the food sovereignty and food security of Colombia."
   imagen: "img/referendo-agro.jpg"
   enlace: "http://referendoporelagro.com/"

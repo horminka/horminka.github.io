@@ -3,7 +3,7 @@ layout: page
 title: Donaciones
 permalink: /donations/
 ref: donaciones
-lang: english
+lang: English
 ---
 
 # Donations

@@ -208,7 +208,7 @@ section a {
 }
 /* /Botones */
 
-.english:lang(english), .español:lang(español) {
+.English:lang(English), .Español:lang(Español) {
   color: #0c2f81;
   font-weight: bold;
 }

@@ -3,7 +3,7 @@ layout: page
 title: Blog
 permalink: /blog-en/
 ref: blog
-lang: english
+lang: English
 ---
 
 # Posts

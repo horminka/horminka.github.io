@@ -37,7 +37,7 @@ disqus: horminka
 markdown: kramdown
 
 t:
-  español:
+  Español:
     navegacion: "Navegación"
     slogan: "Ciencia y Tecnología al Servicio de la Sociedad"
     ultimosposts: "Últimos posts"
@@ -63,7 +63,7 @@ t:
     blog:
       nombre: "Blog"
       url: "blog/"
-  english:
+  English:
     navegacion: "Navigation"
     slogan: "Science and technology for the benefit of society"
     ultimosposts: "Last posts"

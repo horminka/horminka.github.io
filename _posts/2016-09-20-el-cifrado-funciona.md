@@ -4,7 +4,7 @@ title: "El cifrado funciona: ¿Cómo proteger tu privacidad en la era de
 vigilancia de la NSA?"
 date: 2016-09-20 08:00:00 -0500
 ref: el-cifrado-funciona
-lang: español
+lang: Español
 categories: privacidad
 author: Leonardo
 image: http://core0.staticworld.net/images/article/2015/09/nsa-spying-100614856-primary.idge.jpg

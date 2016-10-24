@@ -3,7 +3,7 @@ layout: post
 title: "¿Qué tanto sabe Google de mí? - ¡Todo!"
 date: 2016-08-24 08:00:00 -0500
 ref: que-tanto-sabe-google-de-mi
-lang: español
+lang: Español
 categories: privacidad
 author: truxxu 
 image: http://i.imgur.com/FkarG88.png

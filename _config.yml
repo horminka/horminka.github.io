@@ -14,7 +14,7 @@ title: HorMinka
 email: info@horminka.org
 description: > # this means to ignore newlines until "baseurl:"
   Organización multidisciplinaria que busca a través de la ciencia y la tecnología contribuir al desarrollo de la sociedad, partiendo de la realidad local, regional y nacional.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.horminka.org" # the base hostname & protocol for your site
 author: HorMinka
 image: img/logo.jpg
@@ -25,7 +25,7 @@ twitter:
 facebook:
   publisher: https://www.facebook.com/horminka
 
-logo: img/logo.jpg
+logo: "img/logo.jpg"
 
 social:
   name: Corporación HorMinka
@@ -37,41 +37,87 @@ disqus: horminka
 markdown: kramdown
 
 t:
-  español:
+  Español:
+    navegacion: "Navegación"
+    slogan: "Ciencia y Tecnología al Servicio de la Sociedad"
+    ultimosposts: "Últimos posts"
+    suscribete: "Suscríbete"
+    textosuscribete: "Ingresa tus datos para suscribirte a nuestra lista de correo."
+    enviar: "Enviar"
+    vermas: "Ver más"
+    queeshorminka: "¿Qué es HorMinka?"
+    textoqueeshorminka: "Somos una organización sin ánimo de lucro de la ciudad de Neiva y buscamos a través de la ciencia y la tecnología contribuir al desarrollo de la sociedad. Por medio de consultorías, proyectos, investigación, formación y eventos acercamos las herramientas de la ciencia y la tecnología a personas, organizaciones y negocios, teniendo en cuenta la realidad local."
+    nuestrosservicios: "Nuestros Servicios"
+    textonuestrosservicios: "HorMinka ofrece servicios orientados a la adopción de tecnologías que respeten la libre difusión del conocimiento, incentiven el entendimiento de su componente social, económico y ambiental, y a su vez que promuevan la visión crítica de su uso. La prestación de estos servicios aseguran la sostenibilidad de la organización, ¡contratar con HorMinka es contribuir a la construcción de una sociedad mejor!"
+    conferencias: "Conferencias"
+    talleres: "Talleres"
+    asesorias: "Asesorías"
+    cursos: "Cursos"
+    proyectos: "Proyectos"
+    textoproyectos: "Estos son algunos de los proyectos en los que estamos trabajando. ¿Deseas colaborar? Escríbenos a <a href=''>info@horminka.org</a> o haz tu <a href=''>donación</a> a HorMinka."
+    alfabetizacion: "Alfabetización Tecnológica"
+    textoalfabetizacion: "Ofrecemos talleres y conferencias gratuitas a la comunidad sobre temáticas de interés general."
+    interespublico: "Interés Público"
+    textointerespublico: "Trabajamos para defender el interés público en asuntos de ciencia y tecnología."
+    investigacion: "Investigación"
+    textoinvestigacion: "Ciencia y tecnología para producir conocimiento que responde a las necesidades de la región."
     inicio:
       nombre: "Inicio"
-      url: "/"
+      url: ""
     nosotros:
       nombre: "Nosotros"
-      url: "/nosotros/"
+      url: "nosotros/"
     servicios:
       nombre: "Servicios"
-      url: "/servicios/"
+      url: "servicios/"
     donaciones:
       nombre: "Donaciones"
-      url: "/donaciones/"
+      url: "donaciones/"
     contacto:
       nombre: "Contacto"
-      url: "/contacto/"
+      url: "contacto/"
     blog:
       nombre: "Blog"
-      url: "/blog/"
-  english:
+      url: "blog/"
+  English:
+    navegacion: "Navigation"
+    slogan: "Science and Technology for the Benefit of Society"
+    ultimosposts: "Last posts"
+    suscribete: "Subscribe"
+    textosuscribete: "Enter your data for adding you to our mail list."
+    enviar: "Send"
+    vermas: "View more"
+    queeshorminka: "What is HorMinka?"
+    textoqueeshorminka: "We are a non-profit organization from the city of Neiva and aided by science and technology, we contribute to social development. Considering the local context, we bring science and technology to the people, organizations and businesses, by the means of consultantcy services, research, education and public events."
+    nuestrosservicios: "Our Services"
+    textonuestrosservicios: "HorMinka offers a series of services conceived to promote a better understanding of the social, economic and evironmental aspects of science and technology; the adoption of technologies that respect the free diffusion of knowledge, and the formation of critical thinking regarding their utilization. Offering these services ensure the self-sustainability of our organization. Hiring with HorMinka is a contribution for a better society!"
+    conferencias: "Talks"
+    talleres: "Workshops"
+    asesorias: "Consultancy"
+    cursos: "Courses"
+    proyectos: "Projects"
+    textoproyectos: "These are some of the projects on which we are currently working. Want to help us? Write us at <a href=''>info@horminka.org</a> or make a <a href=''>donation</a> to HorMinka."
+    alfabetizacion: "Technological Literacy"
+    textoalfabetizacion: "We offer free workshops and conferences to the community about topics of public interest."
+    interespublico: "Public Interest"
+    textointerespublico: "We fight for the defense of public interest of issues realated to science and technology."
+    investigacion: "Research"
+    textoinvestigacion: "Science and technology for producing knowledge appropriate to the local needs."
     inicio:
       nombre: "Home"
-      url: "/home.html"
+      url: "home.html"
     nosotros:
       nombre: "About Us"
-      url: "/about-us/"
+      url: "about-us/"
     servicios:
       nombre: "Services"
-      url: "/services/"
+      url: "services/"
     donaciones:
       nombre: "Donations"
-      url: "/donations/"
+      url: "donations/"
     contacto:
       nombre: "Contact"
-      url: "/contact/"
+      url: "contact/"
     blog:
       nombre: "Blog"
-      url: "/blog/"
+      url: "blog/"

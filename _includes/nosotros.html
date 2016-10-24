@@ -1,0 +1,19 @@
+<section id="nosotros">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 text-center">
+        <h1>{{ site.t[page.lang].queeshorminka }}</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-6 imagen-nosotros">
+        <img src="{{ "img/logo.jpg" | prepend: site.baseurl }}" class="img-responsive" alt="HorMinka">
+      </div>
+      <div class="col-sm-12 col-md-6 texto-nosotros">
+        <p>{{ site.t[page.lang].textoqueeshorminka }}</p>
+        <br>
+        <a type="button" class="btn btn-lg btn-block" href="{{ site.t[page.lang].nosotros.url | prepend: site.baseurl }}">{{ site.t[page.lang].vermas }}</a>
+      </div>
+    </div>
+  </div>
+</section>

@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ref: contacto
-lang: english
+lang: English
 ---
 
 # Contact Us!

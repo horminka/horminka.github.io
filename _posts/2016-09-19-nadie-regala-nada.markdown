@@ -3,7 +3,7 @@ layout: post
 title: "¿Gratis? Nadie regala nada"
 date: 2016-09-19 08:00:00 -0500
 ref: nadie-regala-nada
-lang: español
+lang: Español
 categories: privacidad
 author: truxxu 
 image: http://blogs.ubc.ca/markgraham/files/2014/10/Google-Big-Brother.png

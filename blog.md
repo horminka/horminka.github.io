@@ -3,7 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/
 ref: blog
-lang: español
+lang: Español
 ---
 
 # Publicaciones

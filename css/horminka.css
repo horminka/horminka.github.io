@@ -73,14 +73,6 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
 }
 
-footer {
-  text-align: center;
-}
-footer a {
-  color: #0c2f81;
-  padding-right: 15px;
-}
-
 .post-list li {
   padding-top: 30px;
 }
@@ -154,11 +146,10 @@ section h1 {
 
 /* Fuentes */
 body {
-  font-family: 'Electrolize', sans-serif;
 }
 
 section p {
-  font-size: 1.4em;
+  /*font-size: 1.4em;*/
 }
 /* /Fuentes */
 
@@ -166,7 +157,7 @@ section p {
 /* Navegación */
 .navbar-default {
   background-color: #fff;
-  border: none;
+  border-bottom: 1px solid $azul-oscuro;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -187,12 +178,12 @@ section p {
 /* /Navegación */
 
 /* Títulos */
-section h1 {
+section h1,h3 {
   color: #0c2f81;
 }
 
 section a {
-  color: #0c2f81;
+  /*color: #8D72E7;*/
 }
 .seccion-intro {
   color: #0c2f81;
@@ -217,7 +208,7 @@ section a {
 }
 /* /Botones */
 
-.english:lang(english), .español:lang(español) {
+.English:lang(English), .Español:lang(Español) {
   color: #0c2f81;
   font-weight: bold;
 }

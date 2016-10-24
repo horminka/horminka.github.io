@@ -3,7 +3,7 @@ layout: page
 title: Nosotros
 permalink: /nosotros/
 ref: nosotros
-lang: español
+lang: Español
 ---
 
 # ¿Qué es HorMinka?

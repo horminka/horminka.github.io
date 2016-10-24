@@ -1,0 +1,69 @@
+<!-- footer -->
+<footer>
+  <div class="footer-top">
+    <div class="container">
+      <div class="footer-grids">
+        <div class="col-md-3 footer-grid">
+          <div class="footer-logo">
+            <div class="row">
+              <div class="row-xs-12">
+                <div class="text-center">
+                  <a href="{{ site.baseurl }}"><img class="logo" src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}" /></a>
+                  <p>{{ site.t[page.lang].slogan }}</p>
+                  <p>Cel +57 3014206869</p>
+                  <p><a href="mailto:info@horminka.org">info@horminka.org</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 footer-grid">
+          <h3>{{ site.t[page.lang].navegacion }}</h3>
+          <ul class="secciones">
+            {% comment %}<li> <a href="#about" class="scroll">About</a> </li>{% endcomment %}
+            {% include secciones.html %}
+          </ul>
+        </div>
+        <div class="col-md-3 footer-grid">
+          <h3>{{ site.t[page.lang].ultimosposts }}</h3>
+          <ul>
+            {% assign posts=site.posts | where:"lang", page.lang %}
+            {% for post in posts limit: 3 %}
+              <li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="col-md-3 footer-grid">
+          <h3>{{ site.t[page.lang].suscribete }}</h3>
+          <p>{{ site.t[page.lang].textosuscribete }}</p>
+          <form action="#" method="post">
+            <input type="email" name="Email" placeholder="Email" required="">
+            <input type="submit" value="{{ site.t[page.lang].enviar }}">
+          </form>
+        </div>
+        <div class="clearfix"> </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <p>HorMinka 2016 | Licencia <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/2.5/co/">CC BY-NC-SA 2.5 CO</a> | Diseñado por <a href="http://www.horminka.org">HorMinka</a> & <a href="http://w3layouts.com">W3layouts</a></p>
+    </div>
+  </div>
+</footer>
+<!-- //footer -->
+
+<!--
+<footer>
+  <p>
+    <a href="https://twitter.com/horminka" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+    <a href="https://www.facebook.com/horminka" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
+    <a href="https://www.instagram.com/horminka/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+    <a href="https://www.youtube.com/channel/UCOAlZBWlJajq7cs-89Ww3bA"><i class="fa fa-youtube fa-2x"></i></a>
+    <a href="mailto:info@horminka.org"><i class="fa fa-envelope fa-2x"></i></a>
+  </p>
+  <p>
+  <small>HorMinka 2016 | <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/2.5/co/">CC BY-NC-SA 2.5 CO</a></small>
+  </p>
+</footer>
+-->

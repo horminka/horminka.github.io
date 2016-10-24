@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 text-center">
-        <h1>¿Qué es HorMinka?</h1>
+        <h1>{{ site.t[page.lang].queeshorminka }}</h1>
       </div>
     </div>
     <div class="row">
@@ -10,11 +10,9 @@
         <img src="{{ "img/logo.jpg" | prepend: site.baseurl }}" class="img-responsive" alt="HorMinka">
       </div>
       <div class="col-sm-12 col-md-6 texto-nosotros">
-        <p>
-        Somos una organización sin ánimo de lucro de la ciudad de Neiva y buscamos a través de la ciencia y la tecnología contribuir al desarrollo de la sociedad. Por medio de consultorías, proyectos, investigación, formación y eventos acercamos las herramientas de la ciencia y la tecnología a personas, organizaciones y negocios, teniendo en cuenta la realidad local.
-        </p>
+        <p>{{ site.t[page.lang].textoqueeshorminka }}</p>
         <br>
-        <a type="button" class="btn btn-lg btn-block" href="{{ "" | prepend: site.baseurl }}">Ver Más</a>
+        <a type="button" class="btn btn-lg btn-block" href="{{ site.t[page.lang].nosotros.url | prepend: site.baseurl }}">{{ site.t[page.lang].vermas }}</a>
       </div>
     </div>
   </div>

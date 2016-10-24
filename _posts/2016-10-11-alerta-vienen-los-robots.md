@@ -3,7 +3,7 @@ layout: post
 title: "¡Alerta! ¡vienen los robots!"
 date: 2016-10-11 08:00:00 -0500
 ref: alerta-vienen-los-robots
-lang: español
+lang: Español
 categories: tecnologia
 author: Juan Pablo
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Laproscopic_Surgery_Robot.jpg/412px-Laproscopic_Surgery_Robot.jpg

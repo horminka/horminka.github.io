@@ -1,5 +1,6 @@
 /*-- footer --*/
 footer{
+  margin-top: 30px;
   p,a {
       font-size: $size-small;
   }
@@ -56,13 +57,14 @@ footer{
   }
   .footer-top{
       padding: 4em 0 2em 0;
+  border-top: solid 1px $gris-claro2;
   }
   .footer-bottom{
     margin: auto;
     width: 96%;
     padding: 1em 0;
     text-align: center;
-    border-top: solid 1px $color-base;
+    border-top: solid 1px $gris-claro2;
   }
 }
 .footer-grid h3,.footer-list h3{

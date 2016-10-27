@@ -32,7 +32,7 @@ Poner nuestro conocimiento en ciencia y tecnología al servicio del interés pú
     *Director de Tecnología HorMinka*  
     <small>Ingeniero en Electrónica y Telecomunicaciones de la Universidad del Cauca (Popayán)</small>  
     <small>Scrum Master</small>  
-    <small>Experiencia en Seguridad de la Información y Desarrollo de Software</small>  
+    <small>Consultor en Seguridad de la Información y Desarrollo de Software</small>  
     <small>Diplomado en Docencia Universitaria</small>  
 
 

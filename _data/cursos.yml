@@ -1,0 +1,144 @@
+- nombre: Creación de sitios web
+  eje: Soberanía Tecnológica
+  línea: Alfabetización Digital
+  descripcion: >
+    En la actualidad, tecnologías como Internet nos ofrecen la posibilidad de acceder a una casi infinita cantidad de información de forma rápida y sencilla. Pero las posibilidades que tenemos no son solo para ser consumidores sino productores de información y contenidos, y no solo a través de redes sociales. Muchas personas creen que la creación y administración de un sitio web es un asunto reservado a ingenieros expertos en la materia, pero esto no es necesariamente así.
+    En este curso los participantes aprenderán a crear y administrar un sitio web usando Wordpress, el sistema de gestión de contenidos (CMS por sus siglas en inglés) más usado en la web. Como resultado podrán crear su sitio web personal o el de su organización o negocio. Conéctate con el mundo, da a conocer tus opiniones o has crecer tu organización o negocio.
+  objetivos:
+    - Adquirir conocimientos básicos sobre sitios web y los sistemas de gestión de contenidos (CMS).
+    - Crear un sitio web usando Wordpress.
+    - Aprender a gestionar un sitio web usando Wordpress.
+  dirigido-a: Jóvenes y adultos
+  duracion: 20 horas
+  metodologia: 10 sesiones de trabajo de dos horas en las que se hace una exposición teórica breve de conceptos y a continuación se realiza un trabajo práctico.
+  prerrequisitos: Conocimientos básicos de informática y de Internet.
+  materiales:
+    - Computador personal.
+  contenidos:
+    - Introducción a las tecnologías web.
+    - HTML básico.
+    - Introducción a los sistemas de gestión de contenidos (CMS).
+    - Introducción a Wordpress.
+    - Aspecto visual del sitio web (Plantillas).
+    - Páginas y entradas de Wordpress.
+    - Gestión de Menús.
+    - Plugins y widgets de Wordpress.
+    - Nombre de dominio propio (www.misitio.com).
+
+- nombre: Aplicaciones web con Ruby on Rails
+  eje: Soberanía Tecnológica
+  línea: Software y Hardware Libre
+  descripcion: >
+    La utilización de frameworks como Ruby on Rails permiten simplificar el proceso de creación de aplicaciones web de forma considerable. Esto ha permitido que no solo programadores expertos estén en la capacidad de realizar productos web funcionales, sino que cualquier persona interesada en el tema, que entienda los conceptos básicos y dedique un poco de tiempo a la práctica, también lo pueda hacer. Este curso busca poner a disposición de los participantes los conocimientos y herramientas necesarios para  iniciarse de forma sencilla en la creación de aplicaciones web.
+  objetivos:
+    - Conocer conceptos básicos de la arquitectura de software MVC.
+    - Adquirir conocimientos básicos de HTML, CSS y Ruby.
+    - Familiarizarse con el framework de desarrollo web Ruby on Rails en un entorno Linux.
+    - Crear una aplicación web básica.
+  dirigido-a: Jóvenes y adultos
+  duracion: 20 horas
+  metodologia: 10 sesiones de trabajo de dos horas en las que se hace una exposición teórica breve de conceptos y a continuación se realiza un trabajo práctico.
+  prerrequisitos: Conocimientos básicos de manejo de computadores.
+  materiales:
+    - Computador
+  contenidos:
+    - Instalación y configuración de entorno de trabajo Linux
+    - Introducción a Ruby
+    - Instalación y configuración del framework de desarrollo web Ruby on Rails
+    - Bases de datos y modelos en Rails
+    - Rutas, vistas y controladores en Rails
+    - Introducción a GIT y Heroku
+    - Creación de una aplicación web con Ruby on Rails
+
+- nombre: Fundamentos de programación
+  eje: Soberanía Tecnológica
+  línea: Software y Hardware Libre
+  descripcion: >
+    La programación es una de las habilidades valiosas en el mundo moderno. Nuestro día a día está atravesado por software de diferente tipo que influye, muchas veces de manera determinante, en nuestras vidas. No obstante, todavía son muy pocas las personas que tienen siquiera nociones básicas sobre programación. Este curso busca proporcionar unos conocimientos y herramientas básicas para que el participante pueda iniciarse en el mundo de la programación y profundizar, si así lo desea, para convertirse en programador o simplemente entender de mejor manera el funcionamiento del software y de su proceso de creación.
+  objetivos:
+    - Adquirir conocimientos básicos de programación.
+    - Familiarizarse con elementos comunes en diferentes lenguajes de programación.
+    - Comprender los procesos de programación de software.
+  dirigido-a: Jóvenes y adultos
+  duracion: 20 horas
+  metodologia: El curso se desarrolla en 10 sesiones de 2 horas cada una durante 2 semanas e incluye un componente teórico y uno práctico que proporcione las bases para que el participante  pueda empezar a profundizar en  programación.
+  prerrequisitos: Conocimientos básicos de manejo de computadores.
+  materiales:
+    - Computador
+  contenidos:
+    - Conceptos básicos.
+    - Lenguajes de programación.
+    - Estructuras y tipos de datos básicos.
+    - Sentencias de control, módulos y funciones.
+    - Orientación a objetos.
+    - Programación avanzada
+
+- nombre: Introducción a la programación web
+  eje: Soberanía Tecnológica
+  línea: Software y Hardware Libre
+  descripcion: >
+    Las tecnologías web nos ofrecen la posibilidad de comunicarnos e intercambiar información en Internet por medio de páginas y aplicaciones. Los participantes de este curso conocerán los lenguajes y herramientas que se utilizan para desarrollar estos sitios, este es el primer paso para iniciarse de forma práctica y activa en la construcción de la web, permitiéndole poner a disposición del mundo entero las ideas que siempre ha querido materializar. Dominar estas tecnologías y  lenguajes brinda mayor flexibilidad y control a la hora de construir sitios web que se adaptan a los diferentes dispositivos desde donde son accedidos y simplifica los procesos de desarrollo por medio del uso de librerías.
+  objetivos:
+    - Adquirir conocimientos básicos en HTML5, CSS3 y JavaScript.
+    - Familiarizarse con el framework de diseño web Bootstrap.
+    - Familiarizarse con el framework de desarrollo web AngularJS.
+    - Crear una aplicación web básica.
+  dirigido-a: Jóvenes y adultos
+  duracion: 20 horas
+  metodologia: 10 sesiones de trabajo de dos horas en las que se hace una exposición teórica breve de conceptos y a continuación se realiza un trabajo práctico.
+  prerrequisitos: Conocimientos básicos de manejo de computadores.
+  materiales:
+    - Computador
+  contenidos:
+    - Introducción a las tecnologías Web
+    - HTML5
+    - CSS3
+    - Javascript
+    - Bootstrap
+    - Diseño Responsivo
+    - Angular
+
+- nombre: Electrónica con Arduino
+  eje: Soberanía Tecnológica
+  línea: Software y Hardware Libre
+  descripcion: >
+    Arduino es la plataforma para el desarrollo de proyectos de electrónica más popular en la actualidad. Esta orientada a estudiantes, artistas, diseñadores y cualquiera interesado en implementar sus ideas de manera fácil y rápida. Gracias a su comunidad numerosa y activa, Arduino ha permitido la creación de proyectos innovadores alrededor del mundo. Este curso introduce los conocimientos básicos necesarios para interactuar con el mundo real y recoger información de este. De tal forma, los participantes contarán con las habilidades, recursos y conocimientos necesarios para poder planificar, diseñar, prototipar y construir por su propia cuenta circuitos con Arduino de una complejidad moderada.
+  objetivos:
+    - Adquirir conceptos básicos de electrónica
+    - Familiarizarse con el funcionamiento de la placa Arduino
+    - Explorar posibles aplicaciones de la plataforma, usando sensores y actuadores
+  dirigido-a: Jóves y adultos
+  duracion: 20 horas
+  metodologia: 10 sesiones de trabajo de dos horas en las que se hace una exposición teórica breve de conceptos y a continuación se realiza un trabajo práctico.
+  prerrequisitos: Conocimientos básicos de informática e Internet
+  materiales:
+    - Computador personal
+    - Kit Básico Arduino (incluido)
+  contenidos:
+    - Introducción a la plataforma Arduino
+    - Manejo de señales digitales
+    - Manejo de señales análogas
+    - Lectura de señales digitales
+    - Visualización de datos y sensores
+
+- nombre: TIC para adultos
+  eje: Soberanía Tecnológica
+  línea: Alfabetización Digital
+  descripcion: >
+    La capacidad para manejar información y comunicarse utilizando tecnologías digitales se ha convertido en habilidades indispensables en el mundo moderno. El alfabetismo digital incluye conocimiento sobre hardware y software que le permita a las personas utilizar la tecnología para interactuar con la sociedad. Este curso dirigido a adultos esta diseñado para que conozcan las herramientas básicas de comunicación digital, aprendan a utilizarlas y entiendan su funcionamiento.
+  objetivos:
+    - Desarrollar habilidades en el manejo de dispositivos móviles y computadores
+    - Conocer el funcionamiento general de herramientas básicas de comunicación digital
+    - Adquirir buenas prácticas de uso de medios de comunicación digital
+  dirigido-a: Adultos
+  duracion: 20 horas
+  metodologia: 10 sesiones de trabajo de dos horas en las que se hace una exposición teórica breve de conceptos y a continuación se realiza un trabajo práctico.
+  prerrequisitos: Ninguno
+  materiales:
+    - Computador y teléfono inteligente
+  contenidos:
+    - Conceptos básicos de computación
+    - Internet
+    - Whatsapp
+    - Correo electrónico
+    - Teléfonos inteligentes

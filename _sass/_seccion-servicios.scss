@@ -1,0 +1,23 @@
+.info-servicios {
+  text-align: center;
+  .col-md-6 {
+    padding: 20px;
+  }
+  .servicio {
+    border: 2px solid $color-base;
+    p {
+      padding-top: 25px;
+    }
+    ul {
+      padding-bottom: 25px;
+      li {
+        padding-top: 15px;
+      }
+    }
+  }
+}
+@media(min-width: 767px) {
+  .servicio {
+    height: 300px;
+  }
+}

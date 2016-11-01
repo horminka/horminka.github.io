@@ -1,0 +1,64 @@
+---
+layout: page
+title: Servicios
+ref: servicios
+permalink: /servicios/
+lang: Español
+---
+
+  <div class="container">
+    <div class="row">
+      <h1>{{ site.t[page.lang].nuestrosservicios }}</h1>
+      <p>{{ site.t[page.lang].textonuestrosservicios }}</p>
+    </div>
+    <div class="row info-servicios">
+      <div class="col-md-6">
+        <div class="servicio">
+          <div class="titulo">
+            <h2><i class="fa fa-book fa-2x" aria-hidden="true"></i></h2>
+            <h2 class="titulo-servicio">Cursos</h2>
+          </div>
+          <div class="descripcion">
+            <p>Ofrecemos formación en ciencia y tecnología a través de cursos presenciales de 20 horas</p>
+            <p><a href="{{ 'cursos/' | prepend: site.baseurl }}">Ver catálogo de cursos</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="servicio">
+          <div class="titulo">
+            <h2><i class="fa fa-gears fa-2x" aria-hidden="true"></i></h2>
+            <h2 class="titulo-servicio">Talleres</h2>
+          </div>
+          <div class="descripcion">
+            <p>Compartimos conocimiento en ciencia y tecnología por medio de sesiones teórico-prácticas</p>
+            <p><a href="{{ 'talleres/' | prepend: site.baseurl }}">Ver catálogo de talleres</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="servicio">
+          <div class="titulo">
+            <h2><i class="fa fa-ticket fa-2x" aria-hidden="true"></i></h2>
+            <h2 class="titulo-servicio">Conferencias</h2>
+          </div>
+          <div class="descripcion">
+            <p>Realizamos conferencias para exponer temas de actualidad en ciencia y tecnología</p>
+            <p><a href="{{ 'conferencias/' | prepend: site.baseurl }}">Ver catálogo de conferencias</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="servicio">
+          <div class="titulo">
+            <h2><i class="fa fa-compass fa-2x" aria-hidden="true"></i></h2>
+            <h2 class="titulo-servicio">Consultorías</h2>
+          </div>
+          <div class="descripcion">
+            <p>Brindamos consultorías personalizadas en ciencia y tecnología a personas, organizaciones y empresas</p>
+            <p><a href="{{ 'consultorias/' | prepend: site.baseurl }}">Ver más</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

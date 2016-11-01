@@ -1,0 +1,136 @@
+- nombre: Energía, cambio climático y fuentes renovables
+  eje: Medio Ambiente, Sostenibilidad y Cambio Climático
+  línea: Energía Renovable
+  descripcion: >
+    Energía solar, energía eólica, efecto invernadero son términos que se escuchan frecuentemente en estos días; sin embargo, es fundamental conocer su significado por la implicaciones sobre nuestra forma de vida y aún más importante, sobre el futuro del planeta. El  panorama energético está cambiando, y las fuentes renovables cobran mas fuerza que nunca. La educación en estas temáticas nos permitirá adaptarnos más fácil a estos cambios.
+  objetivos:
+    - Promover la creación de una conciencia del consumo de energía.
+    - Identificar las principales fuentes de energía renovable y sus características.
+    - Plantear estrategias para reducir el consumo e incrementar la autonomía energética.
+  dirigido-a: Jóvenes y adultos.
+  duracion: 3 horas
+  metodologia: >
+    El taller se desarrollará en dos sesiones de 90 minutos. En la primera sesión se hará una introducción al concepto de energía, fuentes y usos. También se tratará el tema de cambio climático. En la segunda sesión, se ilustrarán los principales fuentes de energía renovable. Además se proporcionarán estrategias para la reducción del consumo y para crear autososteniblidad energética. Por último, se hará una síntesis de lo aprendido y se aclararán dudas.
+  prerrequisitos: Ninguno
+  materiales:
+    - Ninguno
+  contenidos:
+    - Introducción
+    - Cambio Climático
+    - Fuentes de energía renovable (energía solar, energía eólica, energía hidroeléctrica, biomasa)
+    - Moderación del consumo e independencia energética
+    - Conclusión
+
+- nombre: Privacidad en las comunicaciones
+  eje: Soberanía Tecnológica
+  línea: Seguridad digital y privacidad
+  descripcion: >
+    La conveniencia, costos y flexibilidad de las redes de telecomunicaciones e internet han hecho la comunicación con otros más fácil que nunca. Infortunadamente, estas alternativas digitales no siempre pueden ser confiadas para mantener nuestra información segura. Sin tomar pasos extras para proteger nuestra privacidad, cada llamada telefónica, cada mensaje de texto, correo electrónico, mensaje instantáneo, llamada de voz sobre IP, video charla, y mensaje en las redes sociales podrían ser vulnerables al espionaje.
+  objetivos:
+    - Comprender los riegos asociados a las comunicaciones digitales.
+    - Establecer un modelo de amenazas.
+    - Ejercitar tácticas de defensa.
+  dirigido-a: Periodistas, activistas, sindicalistas, sector privado y cualquier persona u organización interesada en proteger la seguridad en sus comunicaciones.
+  duracion: 6 horas.
+  metodologia: >
+    El taller se desarrollará en dos sesiones de tres horas. En la primera sesión se hará una introducción al tema de privacidad de las comunicaciones y se establecerán unos modelos de amenaza de acuerdo a las necesidades del usuario. Adicionalmente se demostrará el uso de herramientas para mejorar la privacidad del correo electrónico. En la segunda sesión se continuará con la instrucción en el uso de herramientas de privacidad para mensajería instantánea y videollamadas, para concluir con una revisión de las tácticas demostradas y la solución de inquietudes.
+  prerrequisitos: Conocimientos básicos de informática, internet y del uso de medios de comunicación (Gmail, Outlook, Whatsapp, Skype, etc).
+  materiales:
+    - Computador personal.
+    - Teléfono inteligente.
+  contenidos:
+    - Introducción.
+    - Modelos de amenazas.
+    - Mejorando la seguridad del correo con https, Thunderbird, Enigmail y PGP.
+    - Mensajería instantánea privada con Pidgin OTR y Signal.
+    - Llamadas seguras sobre IP y video charla con Jitsi.
+    - Conclusión y preguntas frecuentes.
+
+- nombre: Fundamentos de Internet
+  eje: Soberanía Tecnológica
+  línea: Alfabetización Tecnológica
+  descripcion: >
+    En la actualidad, el uso de computadores o teléfonos inteligentes conectados a Internet, es una actividad que prácticamente todas las personas realizamos en casi todos los momentos de nuestras vidas. Lo hacemos para trabajar, para estudiar, para divertirnos o comunicarnos con otras personas. En este taller aprenderemos cómo funcionan estas herramientas y qué posibilidades tenemos más alla de sólo usar los servicios que nos brindan, al mismo tiempo que se dearrollará una visión crítica de las implicaciones que tiene esta tecnología en nuestras sociedades.
+  objetivos:
+    - Conocer y entender el funcionamiento de un computador.
+    - Entender cómo se conectan los computadores para formar redes.
+    - Conocer la arquitectura básica y el funcionamiento de Internet.
+  dirigido-a: Jóvenes y adultos.
+  duracion: 4 horas.
+  metodologia: 2 sesiones de dos horas de trabajo en las que se hace una exposición teórica breve de conceptos y a continuación se realiza un trabajo práctico.
+  prerrequisitos: Ninguno
+  materiales:
+    - Computador o smartphone.
+    - Conexión a internet.
+  contenidos:
+    - Computadores, Software y Hardware.
+    - Redes.
+    - Servidores.
+    - La nube.
+    - El Internet.
+    - La World Wide Web.
+    - Autonomía y Neutralidad
+
+- nombre: "Ciudadanía digital: Normas en la red"
+  eje: Soberanía Tecnológica
+  línea: Alfabetización Tecnológica
+  descripcion: >
+    En internet, como en el mundo físico,  existen unas normas que rigen nuestras acciones. Este taller busca capacitar a quienes lo reciban en unas normas mínimas, jurídicas y de otro tipo, para que en sus actividades en la red se puedan desarrollar de una mejor manera sin incurrir en problemas legales y de una forma armónica con las demás personas.
+  objetivos:
+    - Conocer y aplicar unas normas mínimas necesarias para un buen uso de internet.
+    - Prevenir conductas que puedan llevar a problemas legales.
+  dirigido-a: Jóvenes y adultos.
+  duracion: 4 horas.
+  metodologia: >
+    Se desarrollarán 2 bloques de 2 horas cada uno con un descanso de media hora entre ellos. En el primer bloque se abordarán los temas de netiqueta y de privacidad. En el segundo bloque normas jurídicas básicas que debemos tener en cuenta al usar en internet, particularmente relativas a derechos de autor y a libertad de expresión.
+  prerrequisitos: Ninguno.
+  materiales:
+    - Computador personal.
+  contenidos:
+    - Netiqueta (Normas de etiqueta en la red)
+    - Cuidemos nuestra privacidad.
+    - Derechos de autor en internet.
+    - Libertad de expresión y sus límites.
+
+- nombre: "Redes sociales: uso, riesgos y alternativas libres"
+  eje: Soberanía Tecnológica
+  línea: Alfabetización Tecnológica
+  descripcion: >
+    Internet es una realidad del mundo moderno. Así mismo, con particular fuerza desde hace algunos años hemos visto como las redes sociales, como parte de ese amplio universo de internet, han venido tomando fuerza y ya son parte de nuestra vida cotidiana y hasta del debate público (política, deportes, etcétera). Infortunadamente, las redes sociales más usadas actualmente presentan grandes riesgos y restricciones para los usuarios (redes sociales privativas). Teniendo en cuenta esta situación, este taller busca enseñar los fundamentos teóricos de las redes sociales, cómo mitigar los riesgos y usar más efectivamente algunas de las redes sociales más populares y finalmente, alternativas a las actuales redes sociales privativas.
+  objetivos:
+    - Conocer los fundamentos de las redes sociales.
+    - Aprender a usar más efectivamente 2 redes sociales privativas ampliamente usadas en Colombia y aprender a mitigar los riesgos de su uso.
+    - Introducir a las personas en la redes sociales libres y promover su uso.
+  dirigido-a: Jóvenes y adultos.
+  duracion: 8 horas.
+  metodologia: >
+    El taller se desarrollará en 2 días diferentes, preferiblemente con una semana entre cada uno. En cada día se adelantarán 2 bloques de 2 horas cada uno con un descanso de media hora entre ellos.
+  prerrequisitos: Ninguno.
+  materiales:
+    - Computador personal y/o teléfono inteligente.
+  contenidos:
+    - Introducción a las redes sociales.
+    - Facebook.
+    - Twitter.
+    - Mitigar los riesgos de las redes sociales privativas.
+    - "Alternativas a las redes privativas: redes sociales libres."
+
+- nombre: Herramientas para contenidos libres
+  eje: Cultura libre y comunidad
+  línea: Licencias Libres
+  descripcion: >
+    La producción del conocimiento a lo largo de la historia ha sido una una construcción social, una labor colectiva. Es decir, cualquier avance o invento se desarrolla sobre las bases que otras personas han desarrollado. Este proceso natural se ha venido viendo torpedeado en las últimas décadas debido a las cada vez más restrictivas normas de propiedad intelectual. Como parte de un esfuerzo por contribuir a que el conocimiento siga avanzando y construyéndose de forma colectiva, este taller proporciona unos fundamentos teóricos sobre la cultura libre, herramientas que se pueden usar para acceder a contenidos libres y cómo aportar a estos.
+  objetivos:
+    - Conocer la cultura libre
+    - Aprender a encontrar y a aportar a los contenidos libres.
+  dirigido-a: Jóvenes y adultos.
+  duracion: 4 horas.
+  metodologia: >
+    Se desarrollarán 2 bloques de 2 horas cada uno con un descanso de media hora entre ellos. En el primer bloque se hará una introducción a la cultura libre y se enseñará a encontrar imágenes libres. En el segundo bloque se enseñará a encontrar videos, audios y textos libres, y finalmente cómo podemos contribuir a que el conocimiento libre siga avanzando.
+  prerrequisitos: Ninguno.
+  materiales:
+    - Computador personal.
+  contenidos:
+    - Introducción a la cultura libre.
+    - Herramientas para encontrar imágenes, videos, audios, textos (libros, artículos, etc.).
+    - ¿Cómo contribuir a la cultura libre?

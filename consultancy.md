@@ -6,18 +6,45 @@ permalink: /consultancy/
 lang: English
 ---
 
-# Consultancy
+# Consulting Services
 
-  * Science and technology-related comprehensive consulting
+HorMinka provides technology solutions for people and organizations. We possess ample knowledge and experience in fields such as computer science, intellectual property, law & technology, energy and environment. Our consulting services include:
 
-  * Free software migration and free software solutions consulting. Save money, gain independence from software providers, extend the
-  life of your old hardware, among others.
+  * Digital identity and online presence
 
-  * Computer forensics services (digital evidence retrieval, data recovery, etc.)
+    * Domain names and corporate email
 
-  * Web presence and online identity services and consulting
+    * Social networks and online advertising
 
-  * Legal advice on matters related to software and other IPs licensing (music, photos, videos, etc.) under free licenses schemes
-  (GPL, Creative Commons, GFDL, among others)
+    * Websites
 
-  * Consultancy on renewable energy
+  * Free and open software
+
+    * Use and adoption of free software in corporate environments
+
+    * Free software-based business models
+
+  * Computer forensics
+
+    * Collection of digital evidence
+
+    * Data recovery
+
+  * Information security
+
+    * Digital signatures
+
+    * Infosec best practices
+
+  * Intellectual property
+
+    * Licensing of software and other works (songs, photos, video, etc.) under free licenses (GPL, Creative Commons, GFDL, among others)
+
+    * Protection of intangible assets under new models of IP
+
+  * Sustainable development
+
+    * Appropriate technology
+
+    * Renewable energy
+

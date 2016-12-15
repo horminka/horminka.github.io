@@ -2,7 +2,7 @@
 <div class="about" id="about">
   <div class="container">
     <div class="wthree-about-info">
-      <h1>{{ site.t[page.lang].proyectos }}</h1>
+      <h1>{{ site.t[page.lang].tituloproyectos }}</h1>
       <p>{{ site.t[page.lang].textoproyectos }}</p>
     </div>
     <div class="agileits-about-grids">
@@ -35,8 +35,10 @@
             <h4>{{ site.t[page.lang].alfabetizacion }}</h4>
             <p>{{ site.t[page.lang].textoalfabetizacion }}</p>
             <div class="agileits-caption">
-              <i class="fa fa-code" aria-hidden="true"></i>
-              <h4>{{ site.t[page.lang].alfabetizacion }}</h4>
+              <a href="{{ site.t[page.lang].proyectos.url | prepend: site.baseurl | append: "#alfabetizacin-tecnolgica"}}">
+                <i class="fa fa-code" aria-hidden="true"></i>
+                <h4>{{ site.t[page.lang].alfabetizacion }}</h4>
+              </a>
             </div>
           </div>
         </div>
@@ -46,8 +48,10 @@
             <h4>{{ site.t[page.lang].interespublico }}</h4>
             <p>{{ site.t[page.lang].textointerespublico }}</p>
             <div class="agileits-caption">
-              <i class="fa fa-users" aria-hidden="true"></i>
-              <h4>{{ site.t[page.lang].interespublico }}</h4>
+              <a href="{{ site.t[page.lang].proyectos.url | prepend: site.baseurl | append: "#inters-pblico"}}">
+                <i class="fa fa-users" aria-hidden="true"></i>
+                <h4>{{ site.t[page.lang].interespublico }}</h4>
+              </a>
             </div>
           </div>
         </div>
@@ -57,8 +61,10 @@
             <h4>{{ site.t[page.lang].investigacion }}</h4>
             <p>{{ site.t[page.lang].textoinvestigacion }}</p>
             <div class="agileits-caption">
-              <i class="fa fa-flask" aria-hidden="true"></i>
-              <h4>{{ site.t[page.lang].investigacion }}</h4>
+              <a href="{{ site.t[page.lang].proyectos.url | prepend: site.baseurl | append: "#investigacin"}}">
+                <i class="fa fa-flask" aria-hidden="true"></i>
+                <h4>{{ site.t[page.lang].investigacion }}</h4>
+              </a>
             </div>
           </div>
         </div>

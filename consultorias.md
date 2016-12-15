@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Asesorías
+title: Consultorías
 ref: asesorias
 permalink: /consultorias/
 lang: Español
@@ -8,14 +8,43 @@ lang: Español
 
 # Consultorías
 
-  * Consultoría Integral en temas de Ciencia y Tecnología
+La Corporación HorMinka ofrece servicios de consultoría para apoyar a personas y organizaciones a integrar soluciones de ciencia y tecnología en sus actividades. Contamos con amplios conocimientos y experiencia en campos como ciencias de la computación e informática, propiedad intelectual, derecho tecnológico, medio ambiente y desarrollo sostenible. Nuestros servicios de consultoría incluyen:
 
-  * Consultoría en migración y soluciones de Software Libre. Entre otros beneficios, podrá obtener: reducción de costos, independencia de proveedores, extensión de la vida útil de hardware antiguo.
+  * Identidad digital y presencia en la red
 
-  * Servicios de informática forense (Recolección de evidencias digitales, recuperación de información, etc)
+    * Nombres de dominio y correos corporativos
 
-  * Servicios y asesoría en identidad digital y presencia en la red
+    * Redes sociales y publicidad en Internet
 
-  * Asesoría jurídica en licenciamiento de software y otras obras (canciones, fotos, videos, etc.) bajo licencias libres (GPL, Creative Commons, GFDL, entre otras)
+    * Sitios web
 
-  * Consultoría en energías renovables
+  * Software Libre
+
+    * Uso y adopción de software libre en ambientes empresariales
+
+    * Modelos de negocio basados en desarrollo de software libre
+
+  * Informática forense
+
+    * Recolección de evidencias digitales
+
+    * Recuperación de información
+
+  * Seguridad de la información
+
+    * Firmas digitales
+
+    * Buenas prácticas de seguridad
+
+  * Propiedad intelectual
+
+    * Licenciamiento de software y otras obras (canciones, fotos, videos, etc.) bajo licencias libres (GPL, Creative Commons, GFDL, entre otras)
+
+    * Protección de activos intangibles bajo nuevos modelos de protección del conocimiento
+
+  * Desarrollo sostenible
+
+    * Tecnología adecuada
+
+    * Energías renovables
+

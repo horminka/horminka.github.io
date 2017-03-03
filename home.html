@@ -4,19 +4,5 @@ ref: inicio
 lang: English
 ---
 
-<!-- Intro Section -->
-<section id="intro" class="seccion-intro" style="background: url('{{ "img/fondo-inicio.jpg" | prepend: site.baseurl }}');">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8 center-block no-float">
-        <img class="img-responsive center-block no-float" src=" {{ "img/logo-transparente.png" | prepend: site.baseurl }}" alt="" />
-        <h3>{{ site.t[page.lang].slogan }}</h3>
-      </div>
-    </div>
-  </div>
-  {% include language_selector.html %}
-</section>
-{% include nosotros.html %}
-{% include servicios.html %}
-{% include proyectos.html %}
-{% include slider-causas.html %}
+{% include slider.html %}
+{% include language_selector.html %}

@@ -39,6 +39,8 @@ markdown: kramdown
 t:
   Español:
     navegacion: "Navegación"
+    contratar: "Contratar con HorMinka es contribuir a la construcción de una sociedad mejor"
+    trabajemos: "Trabajemos juntos por nuestra región"
     slogan: "Ciencia y Tecnología al Servicio de la Sociedad"
     ultimosposts: "Últimos posts"
     suscribete: "Suscríbete"
@@ -96,6 +98,8 @@ t:
       url: "blog/"
   English:
     navegacion: "Navigation"
+    contratar: "Hiring HorMinka contributes to build a better society"
+    trabajemos: "Let's work together for a better world"
     slogan: "Science and Technology for the Benefit of Society"
     ultimosposts: "Last posts"
     suscribete: "Subscribe"

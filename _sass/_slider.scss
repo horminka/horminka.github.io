@@ -1,0 +1,41 @@
+.swiper-container {
+  width: 100%;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background: $blanco;
+}
+.swiper-slide {
+  //text-align: center;
+  font-size: 18px;
+  background: $blanco;
+  color: $blanco;
+  h1 {
+    color: $blanco;
+    position: absolute;
+    bottom: 40px;
+    left: 30px;
+    font-family: 'Electrolize', cursive;
+    font-size: 40px;
+    font-weight: 400;
+    text-shadow: 1px 1px 1px #000;
+    text-align: left;
+  }
+}
+@media(max-width: 767px) {
+  .swiper-container {
+    height: 400px;
+  }
+  .swiper-slide {
+    h1 {
+      font-size: 20px;
+    }
+  }
+}
+.cover {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: 0;
+}

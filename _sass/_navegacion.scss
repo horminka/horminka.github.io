@@ -1,0 +1,157 @@
+@media(min-width:767px) {
+    .navbar {
+        padding: 25px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 13px 0;
+    }
+
+}
+
+@media(max-width:767px) {
+  nav {
+    height: 60px;
+  }
+  .navbar-toggle {
+    margin-top: 13px;
+  }
+  .navbar-collapse {
+    background-color: $blanco;
+    margin-top: 5px;
+    .navbar-nav {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  }
+  .navbar-default .navbar-nav > li {
+    min-width: 100%;
+    border-bottom: none !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    &.azul:active {
+      background-color: $azul;
+    }
+    &.azul-claro:active {
+      background-color: $azul-claro;
+    }
+    &.azul-muy-claro:active {
+      background-color: $azul-muy-claro;
+    }
+    &.azul-horminka:active {
+      background-color: $azul-horminka;
+    }
+    &.amarillo:active {
+      background-color: $amarillo;
+    }
+    &.naranja:active {
+      background-color: $naranja;
+    }
+    &.azul {
+      border-left: solid $azul 6px;
+      border-right: solid $azul 6px;
+    }
+    &.azul-claro {
+      border-left: solid $azul-claro 6px;
+      border-right: solid $azul-claro 6px;
+    }
+    &.azul-muy-claro {
+      border-left: solid $azul-muy-claro 6px;
+      border-right: solid $azul-muy-claro 6px;
+    }
+    &.azul-horminka {
+      border-left: solid $azul-horminka 6px;
+      border-right: solid $azul-horminka 6px;
+    }
+    &.amarillo {
+      border-left: solid $amarillo 6px;
+      border-right: solid $amarillo 6px;
+    }
+    &.naranja {
+      border-left: solid $naranja 6px;
+      border-right: solid $naranja 6px;
+    }
+  }
+  .navbar-default .navbar-brand {
+    img {
+      height: 50px !important;
+      margin-top: 0 !important;
+    }
+  }
+}
+.navbar-default .navbar-brand {
+  padding-top: 0;
+  img {
+    height: 56px;
+    margin-top: -10px;
+  }
+}
+
+.navbar-default {
+  background-color: #fff;
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.navbar-default .navbar-nav > li {
+  width: 120px;
+  text-align: center;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  margin-right: 4px;
+  margin-left: 4px;
+  a {
+    color: $azul-horminka;
+    padding: 10px;
+  }
+  &.azul {
+    border-bottom: solid $azul 2px;
+  }
+  &.azul-claro {
+    border-bottom: solid $azul-claro 2px;
+  }
+  &.azul-muy-claro {
+    border-bottom: solid $azul-muy-claro 2px;
+  }
+  &.azul-horminka {
+    border-bottom: solid $azul-horminka 2px;
+  }
+  &.amarillo {
+    border-bottom: solid $amarillo 2px;
+  }
+  &.naranja {
+    border-bottom: solid $naranja 2px;
+  }
+  &:hover {
+    a {
+      color: $blanco !important;
+    }
+  }
+  &.azul:hover {
+    background-color: $azul;
+  }
+  &.azul-claro:hover {
+    background-color: $azul-claro;
+  }
+  &.azul-muy-claro:hover {
+    background-color: $azul-muy-claro;
+  }
+  &.azul-horminka:hover {
+    background-color: $azul-horminka;
+  }
+  &.amarillo:hover {
+    background-color: $amarillo;
+  }
+  &.naranja:hover {
+    background-color: $naranja;
+  }
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #0c2f81;
+  background-color: #eee;
+}

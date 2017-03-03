@@ -1,13 +1,37 @@
 <!-- Swiper -->
+<style>
+@media(min-width: 767px) {
+  #slide-1 {
+    background-image: url({{ "img/slide-1.jpg" | prepend: site.baseurl }});
+  }
+  #slide-2 {
+    background-image: url({{ "img/slide-2.jpg" | prepend: site.baseurl }});
+  }
+  #slide-3 {
+    background-image: url({{ "img/slide-3.jpg" | prepend: site.baseurl }});
+  }
+}
+@media(max-width: 767px) {
+  #slide-1 {
+    background-image: url({{ "img/slide-1-xs.jpg" | prepend: site.baseurl }});
+  }
+  #slide-2 {
+    background-image: url({{ "img/slide-2-xs.jpg" | prepend: site.baseurl }});
+  }
+  #slide-3 {
+    background-image: url({{ "img/slide-3-xs.jpg" | prepend: site.baseurl }});
+  }
+}
+</style>
 <div class="swiper-container">
   <div class="swiper-wrapper">
-    <div class="swiper-slide cover" style="background-image: url({{ "img/slide-1.jpg" | prepend: site.baseurl }})">
+    <div class="swiper-slide cover" id="slide-1">
       <h1>{{ site.t[page.lang].contratar }}</h1>
     </div>
-    <div class="swiper-slide cover" style="background-image: url({{ "img/slide-2.jpg" | prepend: site.baseurl }})">
+    <div class="swiper-slide cover" id="slide-2">
       <h1>{{ site.t[page.lang].trabajemos }}</h1>
     </div>
-    <div class="swiper-slide cover" style="background-image: url({{ "img/slide-3.jpg" | prepend: site.baseurl }})">
+    <div class="swiper-slide cover" id="slide-3">
       <h1>{{ site.t[page.lang].slogan }}</h1>
     </div>
   </div>

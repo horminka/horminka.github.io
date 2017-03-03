@@ -1,17 +1,4 @@
-@media(min-width:767px) {
-    .navbar {
-        padding: 25px 0;
-        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        transition: background .5s ease-in-out,padding .5s ease-in-out;
-    }
-
-    .top-nav-collapse {
-        padding: 13px 0;
-    }
-
-}
-
+// Tablets-smartphones
 @media(max-width:767px) {
   nav {
     height: 60px;
@@ -81,19 +68,63 @@
       margin-top: 0 !important;
     }
   }
+  // Redes
+  .navbar-default .navbar-nav .redes {
+    //position: absolute;
+    //top: 20px;
+    //right: 50px;
+    text-align: center;
+    li {
+      display: inline-block;
+      margin-left: 15px;
+    }
+  }
 }
+// /Tablets-smartphones
+
+// Desktop
+@media(min-width:767px) {
+  .navbar {
+    padding: 10px 0px 30px 0px;
+    -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    transition: background .5s ease-in-out,padding .5s ease-in-out;
+  }
+
+  .top-nav-collapse {
+    padding: 0px 0px 15px 0px;
+  }
+
+  .navbar-default {
+    background-color: #fff;
+    border-bottom: 1px solid #e7e7e7;
+    .navbar-nav.navbar-right {
+      margin-top: 70px;
+    }
+  }
+
+  // Redes
+  .navbar-default .navbar-nav .redes {
+    position: absolute;
+    top: 15px;
+    right: 50px;
+    li {
+      display: inline-block;
+      margin-left: 9px;
+    }
+  }
+
+}
+
 .navbar-default .navbar-brand {
+  //height: 130px;
   padding-top: 0;
   img {
-    height: 56px;
-    margin-top: -10px;
+    height: 100px;
+    margin-top: 7px;
   }
 }
 
-.navbar-default {
-  background-color: #fff;
-  border-bottom: 1px solid #e7e7e7;
-}
 
 .navbar-default .navbar-nav > li {
   width: 120px;

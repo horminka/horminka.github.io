@@ -25,16 +25,6 @@ section h1,h3 {
   color: #0c2f81;
 }
 
-.English:lang(English), .Español:lang(Español) {
-  color: #0c2f81;
-  font-weight: bold;
-}
-
-.lang a {
-  margin-left: 5px;
-  margin-right: 5px;
-}
-
 h1.post-title {
   padding: 0;
 }

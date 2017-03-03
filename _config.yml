@@ -142,7 +142,7 @@ t:
       url: "about-us/"
     servicios:
       nombre: "Services"
-      url: "servicios/"
+      url: "services/"
     donaciones:
       nombre: "Donations"
       url: "donations/"
@@ -154,4 +154,4 @@ t:
       url: "contact/"
     blog:
       nombre: "Blog"
-      url: "blog/"
+      url: "blog-en/"

@@ -1,0 +1,16 @@
+.English:lang(English), .Español:lang(Español) {
+  color: $blanco;
+  font-weight: bold;
+}
+
+.lang {
+  //border: solid red 2px;
+  background-color: $azul !important;
+  a {
+    color: $blanco;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}
+
+

@@ -8,36 +8,33 @@ lang: English
 
 # What is HorMinka?
 
-We are a multidisciplinary, non-profit organization established in
-the city of Neiva. Using science and technology HorMinka seeks to 
-contribute to social development, by bringing together these two with 
-individuals and organizations, considering the local, regional and 
-national context.            
+We are a non-profit organization from the city of Neiva and aided by science and technology, we contribute to social   development. Considering the local context, we bring science and technology to the people, organizations and businesses, by  the means of consultantcy services, research, education and public events.          
 
 ## Our Vision
 
-A better society based on [libre knowledge](https://en.wikipedia.org/wiki/Libre_(word)#Libre_knowledge), science and technology focused
-on the colective benefit.
+Becoming a role model when it comes to science and technology with a collective benefit approach in Colombia  
 
 ## Our Mission
 
-To satisfy society's needs using science, technology and knowledge as
-public goods that allow an egalitarian and sustainable development.
+To satisfy society's needs using science, technology and knowledge as public goods that will allow an egalitarian and   sustainable development.
 
 # Our Team
 
   * ### Juan Pablo Puentes, LLM
     *Chief Executive Officer*  
     <small>Lawyer, Universidad del Rosario (Bogotá)</small>  
-    <small>Postgraduate Diploma in Computer Law and New Technologies, Universidad del Externado de Colombia (Bogotá)</small>  
+    <small>Postgraduate Diploma in Computer Law and New Technologies, Universidad del Externado de Colombia (Bogotá)</small> 
     <small>Master in Laws and Technology, Tilburg University (Netherlands)</small>  
+    <small>Certified in University Teaching</small>  
  
 
   * ### Leonardo Nieto Cortés
     *Chief Technology Officer*  
     <small>Electronics and Communications Engineer, Universidad del Cauca (Popayán)</small>  
     <small>Scrum Master</small>  
-    <small>Experience in InfoSec and Software Development</small>  
+    <small>InfoSec and Software Development Consultant</small>  
+    <small>Certified in University Teaching</small>
+
  
 
   * ### Daniel Felipe Trujillo, M.Sc.
@@ -123,7 +120,8 @@ to preserve the planet
 
 # Core Issues
 
-  * **Environment, Sustainability and Climate Change**
+  * **Environment, Sustainability and Climate Change**  
+An infinite-growth economic model can not be supported by a planet with finite resources. A better understanding of the   effect of human activities on the planet is the first step to find balance between economy, society and environment.   Rational use of natural resources might promote economic activity, reduce poverty and an overall improvement of the standard  of living. Some of the topics we cover are: 
 
     * Appropriate Technology
 
@@ -133,7 +131,8 @@ to preserve the planet
 
     * Food Security
 
-  * **Technologic Sovereignity**
+  * **Technologic Sovereignity**  
+Technologic sovereignity recognizes the importance of collective empowerment of the new communication tecnologies.  Therefore, setting the basis for a more self-aware and responsible society, capable to use, to create and to master these  tools. Some of the topics we cover are: 
 
     * Technological Literacy
 
@@ -143,7 +142,8 @@ to preserve the planet
 
     * Critical Analysis on Technology
 
-  * **Free Culture and Community**
+  * **Free Culture and Community**  
+Throughout history, knowledge has been created by accumulation, transmission and repetition, building on top of what was  previously buit. Nevertheless, this paradigm has been controverted in recent times, limiting knowledge development and  society advancement. [Libre knowledge](https://en.wikipedia.org/wiki/Libre_(word)#Libre_knowledge) aims to defend knowledge as a public good, product of collective work, which sole  purpose is society advancement. Some of the topics we cover are:  
 
     * Collaborative Work
  

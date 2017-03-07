@@ -22,6 +22,7 @@ Poner nuestro conocimiento en ciencia y tecnología al servicio del interés pú
 
   * ### Juan Pablo Puentes Vargas, LLM
     *Director Ejecutivo HorMinka*  
+    **jp@horminka.org**  
     <small>Abogado de la Universidad del Rosario (Bogotá)</small>  
     <small>Especialista en Derecho Informático y de las Nuevas Tecnologías de la Universidad Externado de Colombia (Bogotá)</small>  
     <small>Máster en Derecho y Tecnología de la Universidad de Tilburg (Países Bajos)</small>  
@@ -30,6 +31,7 @@ Poner nuestro conocimiento en ciencia y tecnología al servicio del interés pú
 
   * ### Leonardo Nieto
     *Director de Tecnología HorMinka*  
+    **leonardo@horminka.org**  
     <small>Ingeniero en Electrónica y Telecomunicaciones de la Universidad del Cauca (Popayán)</small>  
     <small>Scrum Master</small>  
     <small>Consultor en Seguridad de la Información y Desarrollo de Software</small>  
@@ -38,6 +40,7 @@ Poner nuestro conocimiento en ciencia y tecnología al servicio del interés pú
 
   * ### Daniel Felipe Trujillo, M.Sc.
     *Director de Proyectos e Investigación HorMinka*  
+    **daniel@horminka.org**  
     <small>Ingeniero Mecánico de la Universidad de América (Bogotá)</small>  
     <small>Máster en Tecnologías de Generación de Energía de la Universidad Tecnológica de Lappeenranta (Finlandia)</small>  
 

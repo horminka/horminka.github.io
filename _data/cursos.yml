@@ -107,7 +107,7 @@
     - Adquirir conceptos básicos de electrónica
     - Familiarizarse con el funcionamiento de la placa Arduino
     - Explorar posibles aplicaciones de la plataforma, usando sensores y actuadores
-  dirigido-a: Jóves y adultos
+  dirigido-a: Jóvenes y adultos
   duracion: 20 horas
   metodologia: 10 sesiones de trabajo de dos horas en las que se hace una exposición teórica breve de conceptos y a continuación se realiza un trabajo práctico.
   prerrequisitos: Conocimientos básicos de informática e Internet
@@ -121,7 +121,7 @@
     - Lectura de señales digitales
     - Visualización de datos y sensores
 
-- nombre: TIC para adultos
+- nombre: Informática para adultos
   eje: Soberanía Tecnológica
   línea: Alfabetización Digital
   descripcion: >

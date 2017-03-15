@@ -1,0 +1,167 @@
+.seccion-contacto {
+  margin-top: 40px;
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .correo {
+    p {
+      padding-top: 4px;
+    }
+  }
+  .correo,
+  .telefonos,
+  .direccion {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    i {
+      position: absolute;
+      &.naranja {
+        color: $naranja;
+      }
+      &.azul {
+        color: $azul;
+      }
+      &.amarillo {
+        color: $amarillo;
+      }
+      &.azul-muy-claro {
+        color: $azul-muy-claro;
+      }
+    }
+    p {
+      padding-left: 70px;
+      position: relative;
+    }
+  }
+  .mapa {
+    padding: 20px 25px 20px 35px;
+    margin-bottom: 30px;
+  }
+  .mapa iframe{
+    width:100%;
+    min-height:350px;
+  }
+  .map-container {
+    width: 100%;
+    border: solid 6px gray;
+    padding: 0;
+  }
+  .map-container iframe{
+    width: 100%;
+    display: block;
+    pointer-events: none;
+    position: relative; /* IE needs a position other than static  */
+  }
+  .map-container iframe.clicked{
+    pointer-events: auto;
+  }
+  .formulario {
+    form {
+      border: solid $gris-claro2 1px;
+      background-color: $gris-claro2;
+    }
+    .form-group {
+      .input-formulario {
+        border: 0;
+        background-color: $gris;
+        color: $blanco;
+        width: 100%;
+      }
+      .label-formulario {
+        color: $blanco;
+        text-align: center;
+        &.naranja {
+          background-color: $naranja;
+        }
+        &.azul-horminka {
+          background-color: $azul-horminka;
+        }
+        &.azul-claro {
+          background-color: $azul-claro;
+        }
+        &.amarillo {
+          background-color: $amarillo;
+        }
+        &.azul-muy-claro {
+          background-color: $azul-muy-claro;
+        }
+      }
+    }
+  }
+}
+
+@media(min-width: 767px) {
+.seccion-contacto {
+  .correo,
+  .telefonos,
+  .direccion {
+    margin: 60px;
+    padding-left: 80px;
+  }
+  .formulario {
+    margin-top: 20px;
+    form {
+      margin-left: 60px;
+      padding-right: 0px;
+      padding-bottom: 20px;
+      button {
+        position: relative;
+        bottom: 40px;
+        left: 110px;
+      }
+    }
+    .form-group {
+      margin: 60px 10px;
+      position: relative;
+      right: 60px;
+      .input-formulario {
+        padding: 8px;
+        width: 100%;
+      }
+      .label-formulario {
+        padding: 8px;
+        width: 110px;
+      }
+    }
+  }
+}
+}
+@media(max-width: 767px) {
+  .seccion-contacto {
+    .mapa {
+      padding: 20px 25px;
+      margin-bottom: 30px;
+    }
+  }
+  .formulario {
+    form {
+      border: solid $gris-claro2 1px;
+      background-color: $gris-claro2;
+      padding: 20px 8px;
+      margin-bottom: 20px;
+      button {
+        position: block;
+        bottom: 40px;
+        left: 50px;
+      }
+    }
+    .form-group {
+      .input-formulario {
+        border: 0;
+        padding: 8px;
+        background-color: $gris;
+        color: $blanco;
+        width: 100%;
+      }
+      .label-formulario {
+        padding: 8px;
+        color: $blanco;
+        width: 110px;
+        text-align: center;
+      }
+    }
+  }
+}

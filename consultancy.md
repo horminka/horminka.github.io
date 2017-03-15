@@ -6,6 +6,14 @@ permalink: /consultancy/
 lang: English
 ---
 
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12" style="margin-top: 40px;">
+      {% include language_selector.html %}
+    </div>
+  </div>
+</div>
+
 # Consulting Services
 
 HorMinka provides technology solutions for people and organizations. We possess ample knowledge and experience in fields such as computer science, intellectual property, law & technology, energy and environment. Our consulting services include:

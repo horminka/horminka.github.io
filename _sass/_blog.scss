@@ -1,0 +1,26 @@
+.blog {
+  margin-top: 40px;
+  h1 {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .publicacion-out {
+    p {
+      text-align: center;
+    }
+  }
+  .publicacion {
+    border: solid 4px gray;
+    height: 350px;
+    margin-bottom: 30px;
+    .titulo {
+      //background-color: $azul-claro;
+      position: relative;
+      top: 220px;
+      right: 5%;
+      color: $blanco;
+      padding: 10px;
+      width: 110%;
+    }
+  }
+}

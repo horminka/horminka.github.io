@@ -6,6 +6,14 @@ permalink: /consultorias/
 lang: Español
 ---
 
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12" style="margin-top: 40px;">
+      {% include language_selector.html %}
+    </div>
+  </div>
+</div>
+
 # Consultorías
 
 La Corporación HorMinka ofrece servicios de consultoría para apoyar a personas y organizaciones a integrar soluciones de ciencia y tecnología en sus actividades. Contamos con amplios conocimientos y experiencia en campos como ciencias de la computación e informática, propiedad intelectual, derecho tecnológico, medio ambiente y desarrollo sostenible. Nuestros servicios de consultoría incluyen:

@@ -70,15 +70,32 @@
   }
   // Redes
   .navbar-default .navbar-nav .redes {
-    //position: absolute;
-    //top: 20px;
-    //right: 50px;
     text-align: center;
+    border-left: solid 6px gray;
+    border-right: solid 6px gray;
+    border-bottom: solid 2px gray;
     li {
       display: inline-block;
       margin-left: 15px;
     }
   }
+  // Donaciones
+  .navbar-default .navbar-nav .donaciones {
+    background-color: $blanco;
+    a {
+      color: $naranja;
+    }
+    &:hover {
+      background-color: $naranja;
+    }
+    &.activa {
+      border-top: 0 !important;
+      border-bottom: 0 !important;
+      border-left: solid $naranja 6px !important;
+      border-right: solid $naranja 6px !important;
+    }
+  }
+
 }
 // /Tablets-smartphones
 
@@ -114,10 +131,26 @@
     }
   }
 
+  // Donaciones
+  .navbar-default .navbar-nav .donaciones {
+    position: absolute;
+    top: 17px;
+    right: 190px;
+    background-color: $blanco;
+    border: solid $naranja 2px;
+    font-size: 20px;
+    a {
+      color: $naranja;
+      padding: 5px;
+    }
+    &:hover {
+      background-color: $naranja;
+    }
+  }
+
 }
 
 .navbar-default .navbar-brand {
-  //height: 130px;
   padding-top: 0;
   img {
     height: 100px;
@@ -178,11 +211,31 @@
   &.naranja:hover {
     background-color: $naranja;
   }
-}
-
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
-  color: #0c2f81;
-  background-color: #eee;
+  &.activa {
+    a {
+      color: $blanco !important;
+    }
+  }
+  &.azul.activa {
+    background-color: lighten($azul, 10%);
+  }
+  &.azul-claro.activa {
+    background-color: lighten($azul-claro, 10%);
+  }
+  &.azul-muy-claro.activa {
+    background-color: lighten($azul-muy-claro, 10%);
+  }
+  &.azul-horminka.activa {
+    background-color: lighten($azul-horminka, 10%);
+  }
+  &.amarillo.activa {
+    background-color: lighten($amarillo, 10%);
+  }
+  &.naranja.activa {
+    background-color: lighten($naranja, 10%);
+  }
+  &.naranja.activa.donaciones {
+    border: 0;
+    border-bottom: solid $naranja 2px;
+  }
 }

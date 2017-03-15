@@ -6,59 +6,105 @@ permalink: /services/
 lang: English
 ---
 
-  <div class="container">
-    <div class="row">
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12 header" style="background: url({{ "img/header-servicios.jpg" | prepend: site.baseurl }}) center center no-repeat; background-size: cover"></div>
+  </div>
+</div>
+
+<div class="container servicios">
+  <div class="row">
+    <div class="col-sm-12">
+      {% include language_selector.html %}
       <h1>{{ site.t[page.lang].nuestrosservicios }}</h1>
       <p>{{ site.t[page.lang].textonuestrosservicios }}</p>
     </div>
-    <div class="row info-servicios">
-      <div class="col-md-6">
-        <div class="servicio">
-          <div class="titulo">
-            <h2><i class="fa fa-book fa-2x" aria-hidden="true"></i></h2>
-            <h2 class="titulo-servicio">{{ site.t[page.lang].tituloserviciocursos }}</h2>
-          </div>
-          <div class="descripcion">
-            <p>{{ site.t[page.lang].descripcionserviciocursos }}</p>
-            <p><a href="{{ 'cursos/' | prepend: site.baseurl }}">{{ site.t[page.lang].vercatalogocursos }}</a></p>
-          </div>
+  </div>
+
+  <div class="row">
+
+    <div class="col-md-6 cuadro">
+      <div class="row">
+        <div class="col-sm-3 icono-servicio">
+          <h2><i class="fa fa-book fa-3x naranja" aria-hidden="true"></i></h2>
+        </div>
+        <div class="col-sm-9">
+          <h2 class="titulo-servicio naranja">{{ site.t[page.lang].tituloserviciocursos }}</h2>
+          <p class="descripcion-servicio">{{ site.t[page.lang].descripcionserviciocursos }}</p>
+          <p class="enlace-servicio"><a href="{{ 'cursos/' | prepend: site.baseurl }}">{{ site.t[page.lang].vercatalogocursos }}</a></p>
         </div>
       </div>
-      <div class="col-md-6">
-        <div class="servicio">
-          <div class="titulo">
-            <h2><i class="fa fa-gears fa-2x" aria-hidden="true"></i></h2>
-            <h2 class="titulo-servicio">{{ site.t[page.lang].tituloserviciotalleres }}</h2>
-          </div>
-          <div class="descripcion">
-            <p>{{ site.t[page.lang].descripcionserviciotalleres }}</p>
-            <p><a href="{{ 'talleres/' | prepend: site.baseurl }}">{{ site.t[page.lang].vercatalogotalleres }}</a></p>
-          </div>
+      <div class="row imagenes-servicio">
+        <div class="col-sm-6 ">
+          <img src="{{ "img/cursos-1.jpg" | prepend: site.baseurl }}" class="img-responsive naranja" />
         </div>
-      </div>
-      <div class="col-md-6">
-        <div class="servicio">
-          <div class="titulo">
-            <h2><i class="fa fa-ticket fa-2x" aria-hidden="true"></i></h2>
-            <h2 class="titulo-servicio">{{ site.t[page.lang].tituloservicioconfs }}</h2>
-          </div>
-          <div class="descripcion">
-            <p>{{ site.t[page.lang].descripcionservicioconfs }}</p>
-            <p><a href="{{ 'conferencias/' | prepend: site.baseurl }}">{{ site.t[page.lang].vercatalogoconfs }}</a></p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="servicio">
-          <div class="titulo">
-            <h2><i class="fa fa-compass fa-2x" aria-hidden="true"></i></h2>
-            <h2 class="titulo-servicio">{{ site.t[page.lang].tituloservicioconsultorias }}</h2>
-          </div>
-          <div class="descripcion">
-            <p>{{ site.t[page.lang].descripcionservicioconsultorias }}</p>
-            <p><a href="{{ 'consultorias/' | prepend: site.baseurl }}">{{ site.t[page.lang].vermasconsultorias }}</a></p>
-          </div>
+        <div class="col-sm-6">
+          <img src="{{ "img/cursos-2.jpg" | prepend: site.baseurl }}" class="img-responsive naranja" />
         </div>
       </div>
     </div>
-  </div>
+
+    <div class="col-md-6 cuadro">
+      <div class="row">
+        <div class="col-sm-3 icono-servicio">
+          <h2><i class="fa fa-gears fa-3x azul-claro" aria-hidden="true"></i></h2>
+        </div>
+        <div class="col-sm-9">
+          <h2 class="titulo-servicio azul-claro">{{ site.t[page.lang].tituloserviciotalleres }}</h2>
+          <p class="descripcion-servicio">{{ site.t[page.lang].descripcionserviciotalleres }}</p>
+          <p class="enlace-servicio"><a href="{{ 'talleres/' | prepend: site.baseurl }}">{{ site.t[page.lang].vercatalogotalleres }}</a></p>
+        </div>
+      </div>
+      <div class="row imagenes-servicio">
+        <div class="col-sm-6 ">
+          <img src="{{ "img/talleres-1.jpg" | prepend: site.baseurl }}" class="img-responsive azul-claro" />
+        </div>
+        <div class="col-sm-6">
+          <img src="{{ "img/talleres-2.jpg" | prepend: site.baseurl }}" class="img-responsive azul-claro" />
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 cuadro">
+      <div class="row">
+        <div class="col-sm-3 icono-servicio">
+          <h2><i class="fa fa-ticket fa-3x azul-horminka" aria-hidden="true"></i></h2>
+        </div>
+        <div class="col-sm-9">
+          <h2 class="titulo-servicio azul-horminka">{{ site.t[page.lang].tituloservicioconfs }}</h2>
+          <p class="descripcion-servicio">{{ site.t[page.lang].descripcionservicioconfs }}</p>
+          <p class="enlace-servicio"><a href="{{ 'conferencias/' | prepend: site.baseurl }}">{{ site.t[page.lang].vercatalogoconfs }}</a></p>
+        </div>
+      </div>
+      <div class="row imagenes-servicio">
+        <div class="col-sm-6 ">
+          <img src="{{ "img/conferencias-1.jpg" | prepend: site.baseurl }}" class="img-responsive azul-horminka" />
+        </div>
+        <div class="col-sm-6">
+          <img src="{{ "img/conferencias-2.jpg" | prepend: site.baseurl }}" class="img-responsive azul-horminka" />
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 cuadro">
+      <div class="row">
+        <div class="col-sm-3 icono-servicio">
+          <h2><i class="fa fa-compass fa-3x amarillo" aria-hidden="true"></i></h2>
+        </div>
+        <div class="col-sm-9">
+          <h2 class="titulo-servicio amarillo">{{ site.t[page.lang].tituloservicioconsultorias }}</h2>
+          <p class="descripcion-servicio">{{ site.t[page.lang].descripcionservicioconsultorias }}</p>
+          <p class="enlace-servicio"><a href="{{ 'consultancy/' | prepend: site.baseurl }}">{{ site.t[page.lang].vermasconsultorias }}</a></p>
+        </div>
+      </div>
+      <div class="row imagenes-servicio">
+        <div class="col-sm-6 ">
+          <img src="{{ "img/consultoria-1.jpg" | prepend: site.baseurl }}" class="img-responsive amarillo" />
+        </div>
+        <div class="col-sm-6">
+          <img src="{{ "img/consultoria-2.jpg" | prepend: site.baseurl }}" class="img-responsive amarillo" />
+        </div>
+      </div>
+    </div>
+
+</div>

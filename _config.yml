@@ -36,6 +36,9 @@ disqus: horminka
 # Build settings
 markdown: kramdown
 
+colores: [ "#ffbe4f", "#6bd2db", "#e8702a", "#0c457d", "#0ea7b5" ]
+colores-clases: [ "amarillo", "azul", "azul-muy-claro", "naranja", "azul-claro", "azul-horminka", "naranja" ]
+
 t:
   Español:
     navegacion: "Navegación"
@@ -52,13 +55,13 @@ t:
     nuestrosservicios: "Nuestros servicios"
     textonuestrosservicios: "HorMinka ofrece servicios orientados a la adopción de tecnologías que respeten la libre difusión del conocimiento, incentiven el entendimiento de su componente social, económico y ambiental, y a su vez que promuevan la visión crítica de su uso. La prestación de estos servicios aseguran la sostenibilidad de la organización. ¡Contratar con HorMinka es contribuir a la construcción de una sociedad mejor!"
     tituloserviciocursos: "Cursos"
-    descripcionserviciocursos: "Ofrecemos formación en ciencia y tecnología a través de cursos presenciales de 20 horas"
+    descripcionserviciocursos: "Ofrecemos formación en ciencia y tecnología a través de diferentes cursos presenciales de 20 horas"
     vercatalogocursos: "Ver catálogo de cursos"
     tituloserviciotalleres: "Talleres"
     descripcionserviciotalleres: "Compartimos conocimiento en ciencia y tecnología por medio de sesiones teórico-prácticas"
     vercatalogotalleres: "Ver catálogo de talleres"
     tituloservicioconfs: "Conferencias"
-    descripcionservicioconfs: "Realizamos conferencias para exponer temas de actualidad en ciencia y tecnología"
+    descripcionservicioconfs: "Realizamos conferencias para exponer importantes temas de actualidad en ciencia y tecnología"
     vercatalogoconfs: "Ver catálogo de conferencias"
     tituloservicioconsultorias: "Consultorías"
     descripcionservicioconsultorias: "Brindamos consultorías personalizadas en ciencia y tecnología a personas, organizaciones y empresas"
@@ -75,27 +78,21 @@ t:
     textointerespublico: "Trabajamos para defender el interés público en asuntos de ciencia y tecnología."
     investigacion: "Investigación"
     textoinvestigacion: "Ciencia y tecnología para producir conocimiento que responde a las necesidades de la región."
-    inicio:
-      nombre: "Inicio"
-      url: ""
-    nosotros:
-      nombre: "Nosotros"
-      url: "nosotros/"
-    servicios:
-      nombre: "Servicios"
-      url: "servicios/"
-    donaciones:
-      nombre: "Donaciones"
-      url: "donaciones/"
-    proyectos:
-      nombre: "Proyectos"
-      url: "proyectos/"
-    contacto:
-      nombre: "Contacto"
-      url: "contacto/"
-    blog:
-      nombre: "Blog"
-      url: "blog/"
+    paginas:
+      - nombre: "Inicio"
+        enlace: ""
+      - nombre: "Nosotros"
+        enlace: "nosotros/"
+      - nombre: "Servicios"
+        enlace: "servicios/"
+      - nombre: "Blog"
+        enlace: "blog/"
+      - nombre: "Proyectos"
+        enlace: "proyectos/"
+      - nombre: "Contacto"
+        enlace: "contacto/"
+      - nombre: "Donar"
+        enlace: "donaciones/"
   English:
     navegacion: "Navigation"
     contratar: "Hiring HorMinka contributes to build a better society"
@@ -134,24 +131,18 @@ t:
     textointerespublico: "We fight for the defense of public interest of issues realated to science and technology."
     investigacion: "Research"
     textoinvestigacion: "Science and technology for producing knowledge appropriate to the local needs."
-    inicio:
-      nombre: "Home"
-      url: "home.html"
-    nosotros:
-      nombre: "About Us"
-      url: "about-us/"
-    servicios:
-      nombre: "Services"
-      url: "services/"
-    donaciones:
-      nombre: "Donations"
-      url: "donations/"
-    proyectos:
-      nombre: "Projects"
-      url: "projects/"
-    contacto:
-      nombre: "Contact"
-      url: "contact/"
-    blog:
-      nombre: "Blog"
-      url: "blog-en/"
+    paginas:
+      - nombre: "Home"
+        enlace: "home.html"
+      - nombre: "About Us"
+        enlace: "about-us/"
+      - nombre: "Services"
+        enlace: "services/"
+      - nombre: "Blog"
+        enlace: "blog-en/"
+      - nombre: "Projects"
+        enlace: "projects/"
+      - nombre: "Contact"
+        enlace: "contact/"
+      - nombre: "Donate"
+        enlace: "donations/"

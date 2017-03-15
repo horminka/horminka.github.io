@@ -1,0 +1,38 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+ref: blog
+lang: Español
+---
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12 header" style="background: url({{ "img/header-blog.jpg" | prepend: site.baseurl }}) center center no-repeat; background-size: cover"></div>
+  </div>
+</div>
+
+<div class="container blog">
+
+  <div class="row">
+    <div class="col-sm-12">
+      {% include language_selector.html %}
+      <h1>Publicaciones</h1>
+    </div>
+  </div>
+
+  <div class="row">
+
+  {% assign posts=site.posts | where:"lang", page.lang %}
+  {% for post in posts %}
+    <div class="col-md-3 publicacion-out">
+      <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+      <div class="publicacion" style="background: url({{ post.image }}) center center no-repeat; background-size: cover">
+        {% assign mod = forloop.index0 | modulo:5 %}
+        <a href="{{ post.url }}">
+          <p class="titulo" style="background-color: {{ site.colores[ mod ] }}">{{ post.title }}</p>
+        </a>
+      </div>
+    </div>
+  {% endfor %}
+</div>

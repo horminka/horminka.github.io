@@ -1,7 +1,16 @@
-<li class="amarillo"><a href="{{ site.t[page.lang].inicio.url | prepend: site.baseurl }}">{{ site.t[page.lang].inicio.nombre }}</a></li>
-<li class="azul"><a href="{{ site.t[page.lang].nosotros.url | prepend: site.baseurl }}">{{ site.t[page.lang].nosotros.nombre }}</a></li>
-<li class="azul-muy-claro"><a href="{{ site.t[page.lang].servicios.url | prepend: site.baseurl }}">{{ site.t[page.lang].servicios.nombre }}</a></li>
-<li class="naranja"><a href="{{ site.t[page.lang].blog.url | prepend: site.baseurl }}">{{ site.t[page.lang].blog.nombre }}</a></li>
-<li class="azul-claro"><a href="{{ site.t[page.lang].proyectos.url | prepend: site.baseurl }}">{{ site.t[page.lang].proyectos.nombre }}</a></li>
-{% comment %}<li class="amarillo"><a href="{{ site.t[page.lang].donaciones.url | prepend: site.baseurl }}">{{ site.t[page.lang].donaciones.nombre }}</a></li>{% endcomment %}
-<li class="azul-horminka"><a href="{{ site.t[page.lang].contacto.url | prepend: site.baseurl }}">{{ site.t[page.lang].contacto.nombre }}</a></li>
+{% for pagina in site.t[page.lang].paginas %}
+  {% assign url-pagina =  pagina.enlace | prepend: site.baseurl %}
+  {% if page.url == url-pagina %}
+    {% if pagina.nombre == "Donar" or pagina.nombre == "Donate" %}
+      <li class="{{ site.colores-clases[ forloop.index0 ] }} activa donaciones"><a href="{{pagina.enlace | prepend: site.baseurl }}">{{pagina.nombre}}</a></li>
+    {% else %}
+      <li class="{{ site.colores-clases[ forloop.index0 ] }} activa"><a href="{{pagina.enlace | prepend: site.baseurl }}">{{pagina.nombre}}</a></li>
+    {% endif %}
+  {% else %}
+    {% if pagina.nombre == "Donar" or pagina.nombre == "Donate" %}
+      <li class="{{ site.colores-clases[ forloop.index0 ] }} donaciones"><a href="{{pagina.enlace | prepend: site.baseurl }}">{{pagina.nombre}}</a></li>
+    {% else %}
+      <li class="{{ site.colores-clases[ forloop.index0 ] }}"><a href="{{pagina.enlace | prepend: site.baseurl }}">{{pagina.nombre}}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}

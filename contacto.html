@@ -1,0 +1,108 @@
+---
+layout: page
+title: Contacto
+permalink: /contacto/
+ref: contacto
+lang: Español
+---
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12 header" style="background: url({{ "img/header-contacto.jpg" | prepend: site.baseurl }}) center center no-repeat; background-size: cover"></div>
+  </div>
+</div>
+
+<div class="container seccion-contacto">
+  <div class="row">
+    <div class="col-md-12">
+      {% include language_selector.html %}
+      <h1>¡Contáctanos!</h1>
+    </div>
+  </div>
+
+  <div class="row contacto">
+    <div class="col-md-6">
+
+      <div class="row correo">
+        <div class="col-sm-12">
+          <i class="fa fa-envelope fa-2x azul-muy-claro" aria-hidden="true"></i>
+          <p>info@horminka.org<p>
+        </div>
+      </div>
+
+      <div class="row telefonos">
+        <div class="col-sm-12">
+          <i class="fa fa-phone fa-3x azul-muy-claro" aria-hidden="true"></i>
+          <p>Cel. +57 3014206869<p>
+          <p>Tel. (+571) 872 0551<p>
+        </div>
+      </div>
+
+      <div class="row direccion center-block">
+        <div class="col-sm-12">
+          <i class="fa fa-map-marker fa-4x azul-muy-claro" aria-hidden="true"></i>
+          <p>Carrera 9 # 16 - 16<p>
+          <p>Barrio Chapinero<p>
+          <p>Neiva (H)<p>
+        </div>
+      </div>
+
+      <!-- mapa -->
+      <div class="row mapa">
+        <div class="col-md-12 map-container">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.585623883613!2d-75.28703198557483!3d2.9347513978625193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3b746668265dc3%3A0xd553b5702b1e16!2sCra.+9+%2316-16%2C+Neiva%2C+Huila%2C+Colombia!5e0!3m2!1sen!2s!4v1489523312873" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <!-- /mapa -->
+    </div>
+
+    <!-- formulario -->
+    <div class="col-md-6 formulario">
+      <form action="https://formspree.io/info@horminka.org" name="contact_form" id="contact_form" method="post" class="form-horizontal">
+        <div class="form-group">
+          <label class="col-sm-3 label-formulario amarillo">Nombre</label>
+          <div class="col-sm-9">
+            <input type="text" name="nombre" class="text input-formulario" id="Form_Form_name" required="required" aria-required="true" />
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="col-sm-3 label-formulario azul-horminka">Empresa</label>
+          <div class="col-sm-9 animated-form-control">
+            <input type="text" name="empresa" class="text input-formulario" id="Form_Form_name" />
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="col-sm-3 label-formulario azul-muy-claro">Correo</label>
+          <div class="col-sm-9 animated-form-control">
+            <input type="email" name="email" class="input-formulario" required="required" />
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="col-sm-3 label-formulario naranja">Teléfono</label>
+          <div class="col-sm-9 animated-form-control">
+            <input type="text" name="telefono" class="input-formulario" required="required" />
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="col-sm-3 label-formulario azul-claro">Mensaje</label>
+          <div class="col-sm-9 animated-form-control">
+            <textarea name="mensaje" class="input-formulario" required="required" rows="9" cols="20"></textarea>
+          </div>
+        </div>
+
+        <div class="col-sm-12 text-center">
+          <button id="submit_btn" type="submit" class="btn btn-primary">Enviar</button>
+        </div>
+
+        <input type="hidden" name="_subject" value="[contacto website]" />
+        <input type="text" name="_gotcha" style="display:none" />
+        <input type="hidden" name="_next" value="http://www.horminka.org/gracias/" />
+      </form>
+    </div>
+    <!-- /formulario -->
+  </div>
+</div>

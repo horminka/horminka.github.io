@@ -1,9 +1,11 @@
 .lista {
   h2 {
-    padding-top: 90px;
+    padding-top: 160px;
     padding-bottom: 20px;
   }
-  h3 {
-    padding-top: 20px;
+  #top {
+    //margin-top: 280px;
+    position: relative;
+    bottom: 30px;
   }
 }

@@ -17,7 +17,10 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.horminka.org" # the base hostname & protocol for your site
 author: HorMinka
-image: img/logo.jpg
+
+image:
+  twitter: img/header-donaciones.jpg
+  facebook: img/header-donaciones.jpg
 
 twitter:
   username: horminka

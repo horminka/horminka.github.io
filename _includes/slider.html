@@ -2,24 +2,24 @@
 <style>
 @media(min-width: 767px) {
   #slide-1 {
-    background-image: url({{ "img/slide-1-w15.jpg" | prepend: site.baseurl }});
+    background-image: url("{{ site.url }}/img/slide-1-w15.jpg");
   }
   #slide-2 {
-    background-image: url({{ "img/slide-2-w15.jpg" | prepend: site.baseurl }});
+    background-image: url("{{ site.url }}/img/slide-2-w15.jpg");
   }
   #slide-3 {
-    background-image: url({{ "img/slide-3-w15.jpg" | prepend: site.baseurl }});
+    background-image: url("{{ site.url }}/img/slide-3-w15.jpg");
   }
 }
 @media(max-width: 767px) {
   #slide-1 {
-    background-image: url({{ "img/slide-1-xs-w15.jpg" | prepend: site.baseurl }});
+    background-image: url("{{ site.url }}/img/slide-1-xs-w15.jpg");
   }
   #slide-2 {
-    background-image: url({{ "img/slide-2-xs-w15.jpg" | prepend: site.baseurl }});
+    background-image: url("{{ site.url }}/img/slide-2-xs-w15.jpg");
   }
   #slide-3 {
-    background-image: url({{ "img/slide-3-xs-w15.jpg" | prepend: site.baseurl }});
+    background-image: url("{{ site.url }}/img/slide-3-xs-w15.jpg");
   }
 }
 </style>
@@ -43,5 +43,3 @@
   <div class="swiper-button-next swiper-button-white"></div>
   <div class="swiper-button-prev swiper-button-white"></div>
 </div>
-
-

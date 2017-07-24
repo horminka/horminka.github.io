@@ -14,13 +14,13 @@ title: HorMinka
 email: info@horminka.org
 description: > # this means to ignore newlines until "baseurl:"
   Organización multidisciplinaria que busca a través de la ciencia y la tecnología contribuir al desarrollo de la sociedad, partiendo de la realidad local, regional y nacional.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.horminka.org" # the base hostname & protocol for your site
 author: HorMinka
 
 image:
-  twitter: img/header-donaciones.jpg
-  facebook: img/header-donaciones.jpg
+  twitter: /img/header-donaciones.jpg
+  facebook: /img/header-donaciones.jpg
 
 twitter:
   username: horminka
@@ -28,7 +28,7 @@ twitter:
 facebook:
   publisher: https://www.facebook.com/horminka
 
-logo: "img/logo.jpg"
+logo: "/img/logo.jpg"
 
 social:
   name: Corporación HorMinka
@@ -83,19 +83,19 @@ t:
     textoinvestigacion: "Ciencia y tecnología para producir conocimiento que responde a las necesidades de la región."
     paginas:
       - nombre: "Inicio"
-        enlace: ""
+        enlace: "/"
       - nombre: "Nosotros"
-        enlace: "nosotros/"
+        enlace: "/nosotros/"
       - nombre: "Servicios"
-        enlace: "servicios/"
+        enlace: "/servicios/"
       - nombre: "Blog"
-        enlace: "blog/"
+        enlace: "/blog/"
       - nombre: "Proyectos"
-        enlace: "proyectos/"
+        enlace: "/proyectos/"
       - nombre: "Contacto"
-        enlace: "contacto/"
+        enlace: "/contacto/"
       - nombre: "Donar"
-        enlace: "donaciones/"
+        enlace: "/donaciones/"
   English:
     navegacion: "Navigation"
     contratar: "Hiring HorMinka contributes to build a better society"
@@ -136,16 +136,16 @@ t:
     textoinvestigacion: "Science and technology for producing knowledge appropriate to the local needs."
     paginas:
       - nombre: "Home"
-        enlace: "home.html"
+        enlace: "/home.html"
       - nombre: "About Us"
-        enlace: "about-us/"
+        enlace: "/about-us/"
       - nombre: "Services"
-        enlace: "services/"
+        enlace: "/services/"
       - nombre: "Blog"
-        enlace: "blog-en/"
+        enlace: "/blog-en/"
       - nombre: "Projects"
-        enlace: "projects/"
+        enlace: "/projects/"
       - nombre: "Contact"
-        enlace: "contact/"
+        enlace: "/contact/"
       - nombre: "Donate"
-        enlace: "donations/"
+        enlace: "/donations/"

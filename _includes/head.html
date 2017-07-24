@@ -10,26 +10,26 @@
   {% seo title=false %}
 
   <!-- favicon -->
-  <link rel="icon" type="image/x-icon" href="{{ "img/favicon.ico" | prepend: site.baseurl }}">
+  <link rel="icon" type="image/x-icon" href="{{ site.url }}/img/favicon.ico">
 
   <!-- Fuente Electrolize -->
   <link href='https://fonts.googleapis.com/css?family=Electrolize' rel='stylesheet' type='text/css'>
 
   <!-- Bootstrap Core CSS -->
-  <link href="{{ "css/bootstrap.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{ site.url }}/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Font Awesome CSS -->
-  <link href="{{ "css/font-awesome-4.7.0/css/font-awesome.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{ site.url }}/css/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
   <!-- Link Swiper's CSS -->
-  <link rel="stylesheet" href="{{ "css/swiper.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ site.url }}/css/swiper.min.css">
 
   <!-- Site styles -->
-  <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
   <!-- Custom CSS -->
-  <link href="{{ "css/horminka.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{ site.url }}/css/horminka.css" rel="stylesheet">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -39,7 +39,7 @@
   <![endif]-->
 
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "feed.xml" | prepend: site.url }}">
   <meta name="google-site-verification" content="Jc-0NmYUffBKrEnwvxUN_VyiqDefg1y-Io_PsHrxbLo" />
 </head>

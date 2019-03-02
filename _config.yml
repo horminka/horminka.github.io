@@ -15,7 +15,7 @@ email: info@horminka.org
 description: > # this means to ignore newlines until "baseurl:"
   Organización multidisciplinaria que busca a través de la ciencia y la tecnología contribuir al desarrollo de la sociedad, partiendo de la realidad local, regional y nacional.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.horminka.org" # the base hostname & protocol for your site
+url: "https://horminka.github.io" # the base hostname & protocol for your site
 author: HorMinka
 
 image:
